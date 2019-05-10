@@ -10,9 +10,9 @@
   <a href="https://cloudfinder.io"><strong>Discover Cloud Finder »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/plcpinho/cloudfinder/issues/new?template=bug.md" target="_blank">Report bug</a>
+  <a href="https://github.com/plcpinho/CloudFinder/issues/new?template=bug.md" target="_blank">Report bug</a>
   ·
-  <a href="https://github.com/plcpinho/cloudfinder/issues/new?template=feature.md&labels=feature">Request feature</a>
+  <a href="https://github.com/plcpinho/CloudFinder/issues/new?template=feature.md&labels=feature">Request feature</a>
 </p>
 
 
@@ -31,7 +31,7 @@
 
 1. Fork the project;
 2. Clone the repository on your local machine:
-- `git clone https://github.com/plcpinho/cloudfinder.git`
+- `git clone https://github.com/plcpinho/CloudFinder.git`
 
 Read the Contributing section for a collaboration page quick guide.
 
@@ -72,7 +72,7 @@ Read the Contributing section for a collaboration page quick guide.
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```text
-cloudfinder/
+CloudFinder/
 ├── css/
 │   ├── creative.css
 │   └── stylish-portfolio.css
@@ -93,7 +93,7 @@ cloudfinder/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read and contact us (Community Section) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/plcpinho/cloudfinder/issues/new).
+Have a bug or a feature request? Please first read and contact us (Community Section) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/plcpinho/CloudFinder/issues/new).
 
 <!--- ### Running documentation locally
 
