@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://cloudexplorer.mybluemix.net/">
-    <img src="/img/finder-logo.png" alt="Cloud Explorer logo" width="250" height="120">
+  <a href="https://cloudfinder.io/">
+    <img src="/img/finder-logo.png" alt="Cloud Finder logo" width="60" height="60">
   </a>
 </p>
 
 <p align="center">
   Sleek, intuitive, and simple website for a fast and easy cloud comparison.
   <br>
-  <a href="https://versus.mybluemix.net"><strong>Discover Cloud Explorer »</strong></a>
+  <a href="https://versus.mybluemix.net"><strong>Discover Cloud Finder »</strong></a>
   <br>
   <br>
   <a href="https://github.com/plcpinho/versus/issues/new?template=bug.md">Report bug</a>
