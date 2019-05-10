@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cloudfinder.io/">
-    <img src="/img/finder-logo.png" alt="Cloud Finder logo" width="60" height="60">
+    <img src="/img/finder-logo.png" alt="Cloud Finder logo" width="70" height="70">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <a href="https://cloudfinder.io"><strong>Discover Cloud Finder »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/plcpinho/versus/issues/new?template=bug.md">Report bug</a>
+  <a href="https://github.com/plcpinho/versus/issues/new?template=bug.md" target="_blank">Report bug</a>
   ·
   <a href="https://github.com/plcpinho/versus/issues/new?template=feature.md&labels=feature">Request feature</a>
 </p>
