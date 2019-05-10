@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cloudexplorer.mybluemix.net/">
-    <img src="/img/cloud-explorer-logo.png" alt="Cloud Explorer logo" width="250" height="120">
+    <img src="/img/finder-logo.png" alt="Cloud Explorer logo" width="250" height="120">
   </a>
 </p>
 
