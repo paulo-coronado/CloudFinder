@@ -7,7 +7,7 @@
 <p align="center">
   Sleek, intuitive, and simple website for a fast and easy cloud comparison.
   <br>
-  <a href="https://versus.mybluemix.net"><strong>Discover Cloud Finder »</strong></a>
+  <a href="https://cloudfinder.io"><strong>Discover Cloud Finder »</strong></a>
   <br>
   <br>
   <a href="https://github.com/plcpinho/versus/issues/new?template=bug.md">Report bug</a>
