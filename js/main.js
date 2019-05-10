@@ -46,6 +46,8 @@ function rendertable(id, category) {
 
             if (value.category.name == category) {
                 trHTML += '<tr>';
+
+                // TODO Location feature
                 // Service column with description
                 // trHTML += '<td style="background-color: whitesmoke; color: black"><div class="tooltip"><b>' + value.service.name + '</b><span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description:<br><div style="color:white; margin-left:9%; margin-right:5%">' + value.service.desc + '</span></div></td>';
 
@@ -87,7 +89,7 @@ function dataprocessor(input, type) {
     return trHTML;
 }
 
-// TODO Display location feature
+// TODO Location feature
 // function formatLocation(raw) {
 //     return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location:<br><ul><li style='list-style: circle; color:white; margin-left:18%'>" + strReplace(raw) + "</li></ul>";
 // }
@@ -253,20 +255,7 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
         for (i = 0; i < category.length; i++) {
             finder($("#searcher").val(), id[i]);
         }
-        // finder($("#searcher").val(), "ai");
-        // finder($("#searcher").val(), "application-service");
-        // finder($("#searcher").val(), "bd-analytics");
-        // finder($("#searcher").val(), "compute");
-        // finder($("#searcher").val(), "db");
-        // finder($("#searcher").val(), "dev");
-        // finder($("#searcher").val(), "iot");
-        // finder($("#searcher").val(), "management");
-        // finder($("#searcher").val(), "migration");
-        // finder($("#searcher").val(), "mobile");
-        // finder($("#searcher").val(), "network-cd");
-        // finder($("#searcher").val(), "security");
-        // finder($("#searcher").val(), "storage");
-        // finder($("#searcher").val(), "other");
+
         if (target == 0) {
             event.preventDefault();
             Swal.fire({
@@ -277,6 +266,7 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
 
             })
         }
+
         target = 0;
         $("#searcher").val("");
     }
@@ -286,20 +276,7 @@ document.getElementById("btn-searcher").addEventListener("click", function () {
     for (i = 0; i < category.length; i++) {
         finder($("#searcher").val(), id[i]);
     }
-    // finder($("#searcher").val(), "ai");
-    // finder($("#searcher").val(), "application-service");
-    // finder($("#searcher").val(), "bd-analytics");
-    // finder($("#searcher").val(), "compute");
-    // finder($("#searcher").val(), "db");
-    // finder($("#searcher").val(), "dev");
-    // finder($("#searcher").val(), "iot");
-    // finder($("#searcher").val(), "management");
-    // finder($("#searcher").val(), "migration");
-    // finder($("#searcher").val(), "mobile");
-    // finder($("#searcher").val(), "network-cd");
-    // finder($("#searcher").val(), "security");
-    // finder($("#searcher").val(), "storage");
-    // finder($("#searcher").val(), "other");
+
     if (target == 0) {
         alert("Service not found!");
     }

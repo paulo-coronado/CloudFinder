@@ -1,39 +1,6 @@
 
 var verify = { amazon: true, azure: true, google: true, ibm: true, oracle: true, alibaba: true };
 
-// function hidecolumn(idcolumn){
-//     var prov = idcolumn;
-//     var provnumber;
-//     if(prov == "amazon"){
-//         provnumber = 1;
-//     }
-//     if(prov == "azure"){
-//         provnumber = 2;
-//     }
-//     if(prov == "google"){
-//         provnumber = 3;
-//     }
-//     if(prov == "ibm"){
-//         provnumber = 4;
-//     }
-//     if(prov == "oracle"){
-//         provnumber = 5;
-//     }
-//     if(prov == "alibaba"){
-//         provnumber = 6;
-//     }
-//     if(verify[prov] == true){
-//         document.getElementById(prov).className="unselected";
-
-//         verify[prov] = false;
-//     }
-//     else{
-//         document.getElementById(prov).className="selected";
-//         $('table').showColumn(provnumber);
-//         verify[prov] = true;
-
-//     }
-// }
 var cont;
 cont = 6;
 $('#btamazon').click(function () {
