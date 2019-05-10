@@ -10,9 +10,9 @@
   <a href="https://cloudfinder.io"><strong>Discover Cloud Finder »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/plcpinho/versus/issues/new?template=bug.md" target="_blank">Report bug</a>
+  <a href="https://github.com/plcpinho/cloudfinder/issues/new?template=bug.md" target="_blank">Report bug</a>
   ·
-  <a href="https://github.com/plcpinho/versus/issues/new?template=feature.md&labels=feature">Request feature</a>
+  <a href="https://github.com/plcpinho/cloudfinder/issues/new?template=feature.md&labels=feature">Request feature</a>
 </p>
 
 
@@ -31,7 +31,7 @@
 
 1. Fork the project;
 2. Clone the repository on your local machine:
-- `git clone https://github.com/plcpinho/versus.git`
+- `git clone https://github.com/plcpinho/cloudfinder.git`
 
 Read the Contributing section for a collaboration page quick guide.
 
@@ -54,7 +54,7 @@ Read the Contributing section for a collaboration page quick guide.
 
 ## Contributing for the website
 
-1. Open `versus` directory with your favorite code editor;
+1. Open `CloudFinder` directory with your favorite code editor;
 2. Once all table data are stored in JSON files, inside `data` folder, open the specific JSON file that you would like to update;
 3. Each cloud provider is treated as an object. And for each object, there are three keys:
 - "name" - representing the name of the service proposed;
@@ -64,7 +64,7 @@ Read the Contributing section for a collaboration page quick guide.
 4. Manipulate and update services data based on recurrent changes, commit the updates and push them to GitHub;
 5. Create a Pull Request describing with a title and a quick summary of your changes;
 6. Wait for a couple of days, and if the data are approved by the website administrators, the official website will be updated;
-7. Thank you for joining Versus team, you are now, officially, a contributor! :clap::trophy::rainbow:
+7. Thank you for joining Cloud Finder team, you are now, officially, a contributor! :clap::trophy::rainbow:
 
 
 ## What's included
@@ -72,41 +72,28 @@ Read the Contributing section for a collaboration page quick guide.
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```text
-versus/
+cloudfinder/
 ├── css/
 │   ├── creative.css
 │   └── stylish-portfolio.css
 ├── data/
-│   ├── ai.json
-│   ├── application-service.json
-│   ├── bd-analytics.json
-│   ├── compute.json
-│   ├── db.json
-│   ├── dev.json
-│   ├── iot.json
 │   ├── location.json
-│   ├── management.json
-│   ├── migration.json
-│   ├── mobile.json
-│   ├── network-cd.json
-│   ├── other.json
-│   ├── prod.json
-│   ├── security.json
-│   └── storage.json
+│   ├── Services.json
 ├── img/
 ├── js/
 │   ├── app.js
-│   ├── create-table.js
+│   ├── ash.js
+│   ├── ash-native.js
+│   ├── hide-column.js
 │   ├── main.js
-│   ├── searcher.js
-│   ├── stylish-portfolio.js
-│   └── table.js
+│   ├── particles.js
+│   └── stylish-portfolio.js
 └── index.html
 ```
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read and contact us (Community Section) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/plcpinho/versus/issues/new).
+Have a bug or a feature request? Please first read and contact us (Community Section) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/plcpinho/cloudfinder/issues/new).
 
 <!--- ### Running documentation locally
 
@@ -119,7 +106,7 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 ## Community (in development)
 
-<!--- Get updates on Versus's content, news about Cloud Computing and chat with specialists and enthusiasts.
+<!--- Get updates on Cloud Finder's content, news about Cloud Computing and chat with specialists and enthusiasts.
 
 - Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
 - Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
@@ -144,7 +131,7 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 ## Thanks
 
 <p align="center">
-  <a href="https://versus.mybluemix.net/">
+  <a href="https://cloudfinder.io">
      <img src="/img/logos/ibm-cloud-horizontal.png" alt="IBM Logo" width="200" height="70">
   </a>
 </p>
