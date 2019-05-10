@@ -1,0 +1,377 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Big Data Query as a Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Athena",
+      "ref": "https://aws.amazon.com/athena/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Data Lake Analytics",
+      "ref": "https://azure.microsoft.com/en-in/services/data-lake-analytics/",
+      "icon": "Azure Data Lake Analytics.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "BigQuery",
+      "ref": "https://cloud.google.com/bigquery/",
+      "icon": "BigQuery.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "SQL Query",
+      "ref": "https://console.bluemix.net/catalog/services/sql-query",
+      "icon": "sql-query.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "E-MapReduce Service",
+      "ref": "https://www.alibabacloud.com/product/e-mapreduce",
+      "icon": "emr.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Big Data Managed Cluster as a Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "EMR",
+      "ref": "https://aws.amazon.com/emr/",
+      "icon": "Analytics_AmazonEMR.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "HDInsight",
+      "ref": "https://azure.microsoft.com/en-in/services/hdinsight/",
+      "icon": "Azure HDInsight.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud DataProc",
+      "ref": "https://cloud.google.com/dataproc/",
+      "icon": "Cloud-Dataproc.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "BigInsights for Apache Hadoop",
+      "ref": "https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/",
+      "icon": "biginsights.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Big Data",
+      "ref": "https://cloud.oracle.com/bigdata",
+      "icon": "bigdata.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "E-MapReduce Service",
+      "ref": "https://www.alibabacloud.com/product/e-mapreduce",
+      "icon": "emr.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Search",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "CloudSearch",
+        "ref": "https://aws.amazon.com/cloudsearch/",
+        "icon": "Application-Services_AmazonCloudSearch.png",
+        "location": "none"
+      },
+      {
+        "name": "Elastic Search Service",
+        "ref": "https://aws.amazon.com/cloudsearch/",
+        "icon": "Application-Services_AmazonCloudSearch.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+      "name": "Search",
+      "ref": "",
+      "icon": "Azure Search.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Compose for Elasticsearch",
+      "ref": "https://console.bluemix.net/catalog/services/compose-for-elasticsearch",
+      "icon": "compose-elastic.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Streaming Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Kinesis",
+        "ref": "https://aws.amazon.com/kinesis/streams/",
+        "icon": "Analytics_AmazonKinesis.png",
+        "location": "none"
+      },
+      {
+        "name": "Kinesis Video Streams",
+        "ref": "https://aws.amazon.com/blogs/aws/amazon-kinesis-video-streams-serverless-video-ingestion-and-storage-for-vision-enabled-apps/",
+        "icon": "Analytics_AmazonKinesis.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "Stream Analytics",
+        "ref": "https://azure.microsoft.com/en-us/services/stream-analytics/",
+        "icon": "Azure Stream Analytics.png",
+        "location": "none"
+      },
+      {
+        "name": "Event Hub",
+        "ref": "https://azure.microsoft.com/en-us/services/stream-analytics/",
+        "icon": "Azure Event Hubs.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "Cloud Dataflow",
+      "ref": "https://cloud.google.com/dataflow/",
+      "icon": "Cloud-Dataflow.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Streaming Analytics",
+      "ref": "https://console.ng.bluemix.net/catalog/services/streaming-analytics/",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Event Hub (Apache Kafka as a Service)",
+      "ref": "https://cloud.oracle.com/en_US/event-hub",
+      "icon": "storage.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Data Warehouse",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Redshift",
+      "ref": "https://aws.amazon.com/redshift/",
+      "icon": "Database_AmazonRedshift.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "SQL Data Warehouse",
+      "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
+      "icon": "Azure Data Warehouse.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Big Query",
+      "ref": "https://cloud.google.com/bigquery/",
+      "icon": "BigQuery.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Db2 Warehouse",
+      "ref": "https://console.bluemix.net/catalog/services/db2-warehouse",
+      "icon": "db2-warehouse.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "MaxCompute ODPS",
+      "ref": "https://www.alibabacloud.com/product/maxcompute",
+      "icon": "MaxCompute.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Business Intelligence & Data Visualization",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "QuickSight",
+      "ref": "https://quicksight.aws/",
+      "icon": "Analytics_AmazonQuickSight.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "PowerBI",
+      "ref": "https://powerbi.microsoft.com/en-us/",
+      "icon": "Power BI Embedded.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Google Data Studio (Beta)",
+      "ref": "https://cloud.google.com/data-studio/",
+      "icon": "Data-Studio.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Watson studio",
+      "ref": "https://console.bluemix.net/catalog/services/watson-studio",
+      "icon": "watson-studio.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+        "name": "Data Visualization",
+        "ref": "https://cloud.oracle.com/en_US/data-visualization/features",
+        "icon": "oracle.png",
+        "location": "none"
+      },
+      {
+        "name": "Business Intelligence",
+        "ref": "https://cloud.oracle.com/en_US/business-intelligence/features",
+        "icon": "oracle.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+      "name": "Data IDE",
+      "ref": "https://www.alibabacloud.com/product/ide",
+      "icon": "IDE.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud ETL",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Data Pipeline",
+        "ref": "https://aws.amazon.com/datapipeline/",
+        "icon": "Analytics_AWSDataPipeline.png",
+        "location": "none"
+      },
+      {
+        "name": "Glue",
+        "ref": "https://aws.amazon.com/glue/",
+        "icon": "aws.png",
+        "location": "none"
+      },
+      {
+        "name": "Simple Workflow Service (SWF)",
+        "ref": "https://aws.amazon.com/swf/",
+        "icon": "aws.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "Data Factory",
+        "ref": "https://azure.microsoft.com/en-in/services/data-factory/",
+        "icon": "Azure Data Factory.png",
+        "location": "none"
+      },
+      {
+        "name": "Data Catalog",
+        "ref": "https://azure.microsoft.com/en-in/services/data-catalog/",
+        "icon": "Azure Data Catalog.png",
+        "location": "none"
+      },
+      {
+        "name": "Logic Apps",
+        "ref": "https://azure.microsoft.com/en-in/services/logic-apps/",
+        "icon": "Azure App Service - Logic App.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud DataPrep (Private Beta)",
+        "ref": "https://cloud.google.com/dataprep/",
+        "icon": "Cloud-Dataprep.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Composer (Beta)",
+        "ref": "https://cloud.google.com/composer/",
+        "icon": "Cloud-Dataprep.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Data Integrator",
+      "ref": "https://cloud.oracle.com/en_US/data-integrator",
+      "icon": "integration.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+        "name": "DataWorks",
+        "ref": "https://www.alibabacloud.com/product/ide",
+        "icon": "alibaba.png",
+        "location": "none"
+      },
+      {
+        "name": "Data Integration",
+        "ref": "https://www.alibabacloud.com/product/data-integration",
+        "icon": "alibaba.png",
+        "location": "none"
+      }
+    ]
+  }
+]

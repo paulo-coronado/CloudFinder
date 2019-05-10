@@ -1,0 +1,330 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Virtual Networking",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "VPC",
+      "ref": "https://aws.amazon.com/vpc/",
+      "icon": "Networking_AmazonVPC.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "VNet",
+      "ref": "https://azure.microsoft.com/en-in/services/virtual-network/",
+      "icon": "Azure App Service - Web App (was Websites).png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Virtual Network",
+      "ref": "https://cloud.google.com/products/networking/",
+      "icon": "Cloud-Virtual-Network.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Virtual Cloud Network",
+      "ref": "https://cloud.oracle.com/networking",
+      "icon": "service-virtual-cloud-network.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Virtual Private Cloud",
+      "ref": "https://www.alibabacloud.com/product/vpc",
+      "icon": "vpc.png",
+      "location": "none"
+    }]
+  },
+
+  {
+    "service": {
+      "desc": "none",
+      "name": "Network Gateway",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "VPN",
+      "ref": "http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "VPN Gateway",
+      "ref": "https://azure.microsoft.com/en-in/pricing/details/vpn-gateway/",
+      "icon": "Azure VPN Gateway.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud VPN",
+      "ref": "https://cloud.google.com/products/networking/",
+      "icon": "Cloud-Virtual-Network.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "VPN",
+      "ref": "http://knowledgelayer.softlayer.com/learning/introduction-vpn",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "IPSec VPN",
+      "ref": "https://docs.us-phoenix-1.oraclecloud.com/Content/Network/Tasks/managingIPsec.htm",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "VPN Gateway",
+      "ref": "https://www.alibabacloud.com/product/vpn-gateway",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Content Delivery Network",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "CloudFront",
+      "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+      "icon": "Storage-Content-Delivery_AmazonCloudFront.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "CDN",
+      "ref": "https://azure.microsoft.com/en-in/services/cdn/",
+      "icon": "Azure Content Delivery Network (CDN).png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud CDN",
+      "ref": "https://cloud.google.com/cdn/",
+      "icon": "Cloud-CDN.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Content Delivery Network",
+      "ref": "https://console.bluemix.net/catalog/infrastructure/cdn-powered-by-akamai",
+      "icon": "cdn.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Edge Services",
+      "ref": "https://cloud.oracle.com/en_US/edge",
+      "icon": "EdgeServices.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Content Delivery Network",
+      "ref": "https://www.alibabacloud.com/product/cdn",
+      "icon": "cdn.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Networking & Content Delivery",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Route 53",
+      "ref": "https://aws.amazon.com/route53/",
+      "icon": "Networking_AmazonRoute53.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "DNS",
+      "ref": "https://azure.microsoft.com/en-in/services/dns/",
+      "icon": "Azure DNS.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud DNS",
+      "ref": "https://cloud.google.com/dns/",
+      "icon": "Cloud-DNS.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Internet Services",
+      "ref": "https://console.bluemix.net/catalog/services/internet-services",
+      "icon": "internet-services.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "DNS",
+      "ref": "https://cloud.oracle.com/edge/dns/features",
+      "icon": "EdgeServices.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Cloud DNS",
+      "ref": "https://www.alibabacloud.com/product/dns",
+      "icon": "DNS.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Global Traffic Management",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Route 53 Traffic Flow",
+      "ref": "https://aws.amazon.com/blogs/aws/new-route-53-traffic-flow/",
+      "icon": "Networking_AmazonRoute53.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Traffic Manager",
+      "ref": "https://azure.microsoft.com/en-in/services/traffic-manager/",
+      "icon": "Azure Traffic Manager.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Internet Services",
+      "ref": "https://console.bluemix.net/catalog/services/internet-services",
+      "icon": "internet-services.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Private Connectivity",
+      "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Direct Connect",
+        "ref": "https://aws.amazon.com/directconnect/",
+        "icon": "Networking_AWSDirectConnect.png",
+        "location": "none"
+      },
+      {
+        "name": "Private Link",
+        "ref": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/",
+        "icon": "Networking_AWSDirectConnect.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+      "name": "Express Route",
+      "ref": "https://azure.microsoft.com/en-in/services/expressroute/",
+      "icon": "Azure ExpressRoute.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud InterConnect",
+      "ref": "https://cloud.google.com/interconnect/",
+      "icon": "Cloud-Interconnect.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Direct Link",
+      "ref": "https://www.ibm.com/cloud-computing/bluemix/direct-link",
+      "icon": "direct-link.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Fast Connect",
+      "ref": "https://cloud.oracle.com/fastconnect",
+      "icon": "service-fastconnect.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Express Connect",
+      "ref": "https://www.alibabacloud.com/product/express-connect",
+      "icon": "expressconnect.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Load Balancers",
+      "ref": "https://en.wikipedia.org/wiki/Load_balancing_(computing)",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Elastic Load Balancing",
+      "ref": "https://aws.amazon.com/elasticloadbalancing/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Load Balancer",
+      "ref": "https://azure.microsoft.com/en-in/services/load-balancer/",
+      "icon": "Azure load balancer (automatic).png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Load Balancing",
+      "ref": "https://cloud.google.com/load-balancing/",
+      "icon": "Cloud-Load-Balancing.png",
+      "location": "none"
+    }],
+    "ibm": [{
+        "name": "Local Load Balancing",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Load Balancing",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Citrix NetScaler VPX",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+      "name": "Load Balancer",
+      "ref": "https://cloud.oracle.com/load-balancing",
+      "icon": "LoadBalancing.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Server Load Balancer",
+      "ref": "https://www.alibabacloud.com/product/server-load-balancer",
+      "icon": "SLB.png",
+      "location": "none"
+    }]
+  }
+]

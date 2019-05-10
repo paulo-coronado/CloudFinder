@@ -1,0 +1,146 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Office Document Solutions",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "WorkDocs",
+        "ref": "",
+        "icon": "Enterprise-Applications_AmazonWorkDocs.png",
+        "location": "none"
+      },
+      {
+        "name": "WorkMail",
+        "ref": "",
+        "icon": "Enterprise-Applications_AmazonWorkMail.png",
+        "location": "none"
+      },
+      {
+        "name": "WorkSpaces",
+        "ref": "",
+        "icon": "Enterprise-Applications_AmazonWorkSpaces.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+      "name": "Microsoft Office 365",
+      "ref": "",
+      "icon": "Office 365.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "G Suite",
+      "ref": "",
+      "icon": "GSuite.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Desktop Application Streaming",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "AppStream 2.0",
+      "ref": "",
+      "icon": "Application-Services_AmazonAppStream.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Marketplace",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Marketplace",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "MarketPlace",
+      "ref": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps",
+      "icon": "Azure Store_Marketplace.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Launcher",
+      "ref": "https://cloud.google.com/launcher/",
+      "icon": "Google-Cloud-Platform.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Marketplace",
+      "ref": "https://www.ibm.com/bn-en/marketplace/cloud-platform",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Cloud Market Place",
+      "ref": "https://cloudmarketplace.oracle.com/marketplace/bmcs",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Cloud Marketplace",
+      "ref": "https://www.alibabacloud.com/marketplace",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  }
+]

@@ -1,0 +1,741 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Server Management Services",
+      "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "EC2 Systems Manager",
+      "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Operational Insights ",
+      "ref": "https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/",
+      "icon": "Operations Management Suite (OMS).png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "http://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Management Cloud",
+      "ref": "https://cloud.oracle.com/management",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Deployment Templates/ Infra as Code",
+      "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "CloudFormation",
+      "ref": "https://aws.amazon.com/cloudformation/",
+      "icon": "Management-Tools_AWSCloudFormation.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Resource Manager",
+        "ref": "https://azure.microsoft.com/en-us/features/resource-manager/",
+        "icon": "Resource Group.png",
+        "location": "none"
+      },
+      {
+        "name": "Building Blocks",
+        "ref": "https://azure.microsoft.com/en-in/resources/videos/azure-building-blocks-20-azbb/",
+        "icon": "Resource Group.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud Resource Manager",
+        "ref": "https://cloud.google.com/resource-manager/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Deployment Manager",
+        "ref": "https://cloud.google.com/deployment-manager/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "Terraform",
+      "ref": "https://ibm-cloud.github.io/tf-ibm-docs/index.html",
+      "icon": "schematics_icon.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Stack Manager",
+      "ref": "https://docs.oracle.com/cloud/latest/stack-manager-cloud/index.html",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Resource Orchestration Service",
+      "ref": "https://www.alibabacloud.com/product/ros",
+      "icon": "ros.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Logging & Monitoring",
+      "ref": "https://en.wikipedia.org/wiki/Log_management",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "CloudWatch",
+        "ref": "https://aws.amazon.com/cloudwatch/",
+        "icon": "Management-Tools_AWSCloudFormation.png",
+        "location": "none"
+      },
+      {
+        "name": "CloudTrail",
+        "ref": "https://aws.amazon.com/cloudtrail/",
+        "icon": "Management-Tools_AWSCloudTrail.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "Log Analytics",
+        "ref": "https://azure.microsoft.com/en-in/services/log-analytics/",
+        "icon": "OMS Log Analytics.png",
+        "location": "none"
+      },
+      {
+        "name": "Portal",
+        "ref": "https://portal.azure.com/#",
+        "icon": "Azure Management Portal.png",
+        "location": "none"
+      },
+      {
+        "name": "Application Insights",
+        "ref": "https://azure.microsoft.com/en-in/services/application-insights/",
+        "icon": "Azure Application Insights.png",
+        "location": "none"
+      }
+
+    ],
+    "google": [{
+        "name": "StackDriver",
+        "ref": "https://cloud.google.com/stackdriver/",
+        "icon": "Stackdriver.png",
+        "location": "none"
+      },
+      {
+        "name": "Monitoring",
+        "ref": "https://cloud.google.com/monitoring/",
+        "icon": "Monitoring.png",
+        "location": "none"
+      },
+      {
+        "name": "Logging",
+        "ref": "https://cloud.google.com/logging/",
+        "icon": "Logging.png",
+        "location": "none"
+      },
+      {
+        "name": "Error Reporting",
+        "ref": "https://cloud.google.com/error-reporting/",
+        "icon": "Error-Reporting.png",
+        "location": "none"
+      },
+      {
+        "name": "Trace",
+        "ref": "https://cloud.google.com/trace/",
+        "icon": "Trace.png",
+        "location": "none"
+      },
+      {
+        "name": "Debugger",
+        "ref": "https://cloud.google.com/debugger/",
+        "icon": "Debugger.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+        "name": "Log Analysis",
+        "ref": "https://console.bluemix.net/catalog/services/log-analysis",
+        "icon": "log-analysis.svg",
+        "location": "none"
+      },
+      {
+        "name": "Monitoring",
+        "ref": "https://console.bluemix.net/catalog/services/monitoring",
+        "icon": "monitoring.svg",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+        "name": "Application Performance Monitoring",
+        "ref": "https://cloud.oracle.com/application-performance-monitoring",
+        "icon": "AppPerfMonitoring.png",
+        "location": "none"
+      },
+      {
+        "name": "Management Cloud",
+        "ref": "",
+        "icon": "AppPerfMonitoring.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+        "name": "CloudMonitor",
+        "ref": "https://www.alibabacloud.com/product/cloud-monitor",
+        "icon": "CloudMonitor.png",
+        "location": "none"
+      },
+      {
+        "name": "ActionTrail",
+        "ref": "https://www.alibabacloud.com/product/actiontrail",
+        "icon": "CloudMonitor.png",
+        "location": "none"
+      },
+      {
+        "name": "Application Real-Time Monitoring Service",
+        "ref": "https://www.alibabacloud.com/product/arms",
+        "icon": "CloudMonitor.png",
+        "location": "none"
+      }
+    ]
+  },
+
+  {
+    "service": {
+      "desc": "none",
+      "name": "Resource / Configuration Inventory",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Config",
+      "ref": "https://aws.amazon.com/config/",
+      "icon": "Management-Tools_AWSConfig.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Portal (audit logs)",
+      "ref": "",
+      "icon": "Azure Management Portal.png",
+      "location": "none"
+    }],
+    "google": [{
+        "name": "Cloud Security Scanner",
+        "ref": "",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Data Loss Prevention Api",
+        "ref": "https://cloud.google.com/dlp/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      },
+      {
+        "name": "Access Transparency (Beta)",
+        "ref": "https://cloud.google.com/access-transparency/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Cloud Governance Services",
+      "ref": "https://cloud.oracle.com/en_US/governance",
+      "icon": "service-governance.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Log Service",
+      "ref": "https://www.alibabacloud.com/product/log-service",
+      "icon": "log-service.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Server Automation",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "OpsWorks",
+      "ref": "https://aws.amazon.com/opsworks/",
+      "icon": "Management-Tools_AWSOpsWorks.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Resource Manager",
+        "ref": "https://azure.microsoft.com/en-us/features/resource-manager/",
+        "icon": "Resource Group.png",
+        "location": "none"
+      },
+      {
+        "name": "Automation",
+        "ref": "https://docs.microsoft.com/en-us/azure/automation/",
+        "icon": "Azure Automation.png",
+        "location": "none"
+      },
+      {
+        "name": "VM Extentions",
+        "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-extensions-features",
+        "icon": "Azure VM symbol only.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Orchestration Cloud Service",
+      "ref": "https://cloud.oracle.com/en_US/orchestration",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Resource Orchestration Service ",
+      "ref": "https://www.alibabacloud.com/product/ros",
+      "icon": "ros.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Server Automation",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Service Catalog",
+      "ref": "https://aws.amazon.com/servicecatalog/",
+      "icon": "Management-Tools_AWSServiceCatalog.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Cost / Performance / Security Advisor",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Trusted Advisor",
+      "ref": "https://aws.amazon.com/premiumsupport/trustedadvisor/",
+      "icon": "Management-Tools_AWSTrustedAdvisor.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Advisor",
+        "ref": "https://azure.microsoft.com/en-in/services/advisor/",
+        "icon": "Azure Security Center.png",
+        "location": "none"
+      },
+      {
+        "name": "Cost Management",
+        "ref": "https://azure.microsoft.com/en-us/services/cost-management/",
+        "icon": "Azure Security Center.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "Cloud Platform Security",
+      "ref": "https://cloud.google.com/security/",
+      "icon": "Generic-GCP.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Alerts and Remediation guidance Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Personal Health Dashboard",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Monitor",
+        "ref": "https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor",
+        "icon": "Azure monitor.png",
+        "location": "none"
+      },
+      {
+        "name": "Operations Management Suite (OMS)",
+        "ref": "https://www.microsoft.com/en-us/cloud-platform/operations-management-suite",
+        "icon": "Azure OMS.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Management Cloud",
+      "ref": "https://cloud.oracle.com/en_US/management",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Cloud monitoring, Notification and Alerts",
+      "ref": "https://www.alibabacloud.com/product/cloud-monitor",
+      "icon": "CloudMonitor.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Management Tools",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Command Line Interface",
+        "ref": "",
+        "icon": "SDKs_AWSCLI.png",
+        "location": "none"
+      },
+      {
+        "name": "Management Console",
+        "ref": "",
+        "icon": "aws.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "Command Line Interface",
+        "ref": "",
+        "icon": "Microsoft Azure.png",
+        "location": "none"
+      },
+      {
+        "name": "Powershell",
+        "ref": "https://docs.microsoft.com/en-us/powershell/azure/overview?view=azurermps-6.3.0",
+        "icon": "Microsoft Azure.png",
+        "location": "none"
+      },
+      {
+        "name": "Management Console",
+        "ref": "",
+        "icon": "Azure Management Portal.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Shell",
+        "ref": "https://azure.microsoft.com/en-us/features/cloud-shell/",
+        "icon": "Azure Management Portal.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud Shell",
+        "ref": "https://cloud.google.com/shell/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Console",
+        "ref": "https://cloud.google.com/cloud-console/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      },
+      {
+        "name": "Billing API",
+        "ref": "https://cloud.google.com/billing/docs/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud APIs",
+        "ref": "https://cloud.google.com/apis/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+        "name": "Public Cloud CLI",
+        "ref": "https://#",
+        "icon": "oracle.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Infrastructure CLI",
+        "ref": "https://#",
+        "icon": "oracle.png",
+        "location": "none"
+      },
+      {
+        "name": "Management Console",
+        "ref": "https://#",
+        "icon": "oracle.png",
+        "location": "none"
+      },
+      {
+        "name": "API Catalog",
+        "ref": "https://apicatalog.oraclecloud.com/ui/",
+        "icon": "oracle.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+      "name": "Cloud CLI",
+      "ref": "https://www.alibabacloud.com/help/doc-detail/66653.htm",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Automated Infra Management Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Managed Services",
+      "ref": "https://aws.amazon.com/managed-services/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Managed Cloud Services",
+      "ref": "https://www.oracle.com/fr/cloud/managed-cloud.html",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Automated Disaster Recovery Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Disaster Recovery",
+      "ref": "https://aws.amazon.com/disaster-recovery/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Site Recovery",
+        "ref": "https://azure.microsoft.com/en-us/services/site-recovery/",
+        "icon": "Azure Site Recovery.png",
+        "location": "none"
+      },
+      {
+        "name": "Backup",
+        "ref": "https://azure.microsoft.com/en-us/services/backup/",
+        "icon": "Azure Backup.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Database Backup",
+      "ref": "https://cloud.oracle.com/en_US/database-backup/features",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+        "name": "Disaster Recovery",
+        "ref": "https://www.alibabacloud.com/solutions/hosting/Disaster-Recovery",
+        "icon": "alibaba.png",
+        "location": "none"
+      },
+      {
+        "name": "Hybrid Backup Recovery",
+        "ref": "https://www.alibabacloud.com/product/hbr",
+        "icon": "alibaba.png",
+        "location": "none"
+      }
+    ]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Managed Cloud Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Managed Services",
+      "ref": "https://aws.amazon.com/managed-services/",
+      "icon": "Application-Services_AmazonAppStream.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  }
+]

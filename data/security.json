@@ -1,0 +1,501 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Identity & Access Management",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Identity and Access Management (IAM)",
+      "ref": "https://aws.amazon.com/documentation/iam/",
+      "icon": "Security-Identity_AWSIAM.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Active Directory",
+      "ref": "https://azure.microsoft.com/en-in/services/active-directory/",
+      "icon": "Azure Active Directory.png",
+      "location": "none"
+    }],
+    "google": [{
+        "name": "Cloud IAM",
+        "ref": "https://cloud.google.com/iam/",
+        "icon": "Cloud-IAM.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Identity-Aware Proxy",
+        "ref": "https://cloud.google.com/iap/",
+        "icon": "Cloud-Identity-Aware-Proxy.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "Identity & Access Management",
+      "ref": "https://console.bluemix.net/docs/iam/quickstart.html#getstarted",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Identity",
+      "ref": "https://cloud.oracle.com/en_US/identity/features",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Resource Access Management        ",
+      "ref": "https://www.alibabacloud.com/product/ram",
+      "icon": "ram.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Security Assesment Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Inspector",
+        "ref": "https://aws.amazon.com/inspector/",
+        "icon": "Security-Identity_AmazonInspector.png",
+        "location": "none"
+      },
+      {
+        "name": "Gaurd Duty",
+        "ref": "https://aws.amazon.com/guardduty/",
+        "icon": "Security-Identity_AmazonInspector.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+      "name": "Security Center",
+      "ref": "https://azure.microsoft.com/en-in/services/security-center/",
+      "icon": "Azure Security Center.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+        "name": "Infrastructure Vulnerability Scan",
+        "ref": "https://console.bluemix.net/docs/infrastructure/SLmonitoring/vuln_scan.html#vulnerability-scans",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Application Vulnerability Scan",
+        "ref": "https://console.bluemix.net/docs/services/ApplicationSecurityonCloud/index.html",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+      "name": "Configuration and Compliance Service",
+      "ref": "https://cloud.oracle.com/compliance",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Secured Socket Layer (SSL) Certificates",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Certificate Manager",
+      "ref": "https://aws.amazon.com/certificate-manager/",
+      "icon": "Security-Identity_ACM_certificate-manager.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "App Service Certificate",
+      "ref": "https://azure.microsoft.com/en-us/updates/introducing-app-service-certificates/",
+      "icon": "Azure App Service.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "SSL Certificates",
+      "ref": "https://console.bluemix.net/docs/infrastructure/ssl-certificates/index.html#getting-started-with-ssl-certificates",
+      "icon": "ssl-certificates.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "SSL Certificates",
+      "ref": "https://www.alibabacloud.com/product/certificates",
+      "icon": "SSL.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Hardware Based Security Module",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "CloudHSM",
+        "ref": "https://aws.amazon.com/cloudhsm/",
+        "icon": "Security-Identity_AWSCloudHSM.png",
+        "location": "none"
+      },
+      {
+        "name": "Secrets Manager",
+        "ref": "https://aws.amazon.com/secrets-manager/",
+        "icon": "Security-Identity_AWSCloudHSM.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+      "name": "Key Vault",
+      "ref": "https://azure.microsoft.com/en-in/services/key-vault/",
+      "icon": "Azure Key Vault.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Key Management Service",
+      "ref": "https://cloud.google.com/kms/",
+      "icon": "Cloud-Platform-Security.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Key Protect",
+      "ref": "https://console.ng.bluemix.net/catalog/services/key-protect/",
+      "icon": "key-protect.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Key Management Service",
+      "ref": "https://www.alibabacloud.com/product/key-management-service",
+      "icon": "ram.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Directory Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Directory Service",
+      "ref": "https://aws.amazon.com/directoryservice/",
+      "icon": "Security-Identity_AWSDirectoryService.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Active Directory",
+        "ref": "https://azure.microsoft.com/en-us/services/active-directory/",
+        "icon": "Azure Active Directory.png",
+        "location": "none"
+      },
+      {
+        "name": "Active Directory B2C",
+        "ref": "https://azure.microsoft.com/en-us/services/active-directory-b2c/",
+        "icon": "Azure Active Directory.png",
+        "location": "none"
+      },
+      {
+        "name": "Active Directory Domain Services",
+        "ref": "https://azure.microsoft.com/en-us/services/active-directory-ds/",
+        "icon": "Azure Active Directory.png",
+        "location": "none"
+      },
+      {
+        "name": "Active Directory Multi Factor Authentication",
+        "ref": "https://azure.microsoft.com/en-us/services/multi-factor-authentication/",
+        "icon": "Azure Active Directory.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud IAM",
+        "ref": "https://cloud.google.com/iam/",
+        "icon": "Cloud-IAM.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Identity-Aware Proxy",
+        "ref": "https://cloud.google.com/iap/",
+        "icon": "Cloud-Identity-Aware-Proxy.png",
+        "location": "none"
+      },
+      {
+        "name": "Security Key Enforcement",
+        "ref": "https://cloud.google.com/security-key/",
+        "icon": "Generic-GCP.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "App ID",
+      "ref": "https://console.bluemix.net/catalog/services/app-id",
+      "icon": "app-id.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Resource Access Management",
+      "ref": "https://www.alibabacloud.com/help/doc-detail/96239.htm",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Key Management Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Key Management Service",
+      "ref": "",
+      "icon": "Security-Identity_AWSKMS.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Key Vault",
+      "ref": "https://azure.microsoft.com/en-us/services/key-vault/",
+      "icon": "Azure Key Vault.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Key Management Service",
+      "ref": "https://cloud.google.com/kms/",
+      "icon": "Cloud-Platform-Security.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Identity Cloud Service",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Key Management Service ",
+      "ref": "https://www.alibabacloud.com/product/key-management-service",
+      "icon": "KMS.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Consolidated Management of Multiple Cloud Accounts",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Organizations",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Management Groups",
+      "ref": "https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview",
+      "icon": "Azure%20Management%20Portal.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Resource Group",
+      "ref": "https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Audit",
+      "ref": "https://cloud.oracle.com/en_US/cloud-security/audit/features",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "DDos Protection Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Shield",
+      "ref": "https://aws.amazon.com/shield/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "DDoS Protection",
+      "ref": "https://azure.microsoft.com/en-in/services/ddos-protection/",
+      "icon": "Microsoft Azure.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Armor (Beta)",
+      "ref": "https://cloud.google.com/armor/",
+      "icon": "Google-Cloud-Platform.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Internet Services",
+      "ref": "https://console.bluemix.net/catalog/services/internet-services",
+      "icon": "internet-services.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "DDOS Pro and Basic",
+      "ref": "https://www.alibabacloud.com/product/ddos-pro",
+      "icon": "ddos.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Web Application Firewall",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "WAF",
+      "ref": "https://aws.amazon.com/waf/",
+      "icon": "Security-Identity_AWSWAF.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "WAF",
+      "ref": "",
+      "icon": "Firewall.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Internet Services",
+      "ref": "https://console.bluemix.net/catalog/services/internet-services",
+      "icon": "internet-services.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Web Application Firewall",
+      "ref": "https://www.alibabacloud.com/product/waf",
+      "icon": "waf.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Security & Compliance Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Artifact",
+      "ref": "https://aws.amazon.com/artifact/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Security & Compliance",
+      "ref": "https://azure.microsoft.com/en-in/support/trust-center/",
+      "icon": "Azure Security Center.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Security Command Center (Alpha)",
+      "ref": "https://cloud.google.com/security-command-center/",
+      "icon": "Google-Cloud-Platform.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Compliance",
+      "ref": "https://cloud.oracle.com/en_US/cloud-compliance",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Truster Center ",
+      "ref": "https://www.alibabacloud.com/trust-center",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  }
+]

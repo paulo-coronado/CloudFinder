@@ -1,0 +1,161 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "IoT Platform",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "IoT Platform",
+      "ref": "",
+      "icon": "Internet-Of-Things_AWSIoT.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "IoT Platform",
+        "ref": "https://azure.microsoft.com/en-us/overview/iot/",
+        "icon": "Azure IoT Hub.png",
+        "location": "none"
+      },
+      {
+        "name": "IoT Hub",
+        "ref": "https://azure.microsoft.com/en-us/services/iot-hub/",
+        "icon": "Azure IoT Hub.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud IoT Core (Beta)",
+        "ref": "https://cloud.google.com/iot-core/",
+        "icon": "Google-Cloud-Platform.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud IoT",
+        "ref": "https://cloud.google.com/solutions/iot/",
+        "icon": "Google-Cloud-Platform.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "Internet of Things Platform",
+      "ref": "https://console.ng.bluemix.net/catalog/services/internet-of-things-platform/",
+      "icon": "internet-of-things.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Internet of Things Cloud Service",
+      "ref": "https://cloud.oracle.com/en_US/iot",
+      "icon": "InternetOfThings.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "IoT Platform",
+      "ref": "https://www.alibabacloud.com/product/iot",
+      "icon": "iot.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "IoT Development Solutions",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Greengrass",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "IoT SDK",
+        "ref": "",
+        "icon": "Azure SDK.png",
+        "location": "none"
+      },
+      {
+        "name": "IoT Edge",
+        "ref": "https://azure.microsoft.com/en-us/blog/microsoft-launches-azure-iot-technical-training-developers-can-start-quickly-with-iot/",
+        "icon": "Azure SDK.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+        "name": "Edge Analytics",
+        "ref": "https://console.bluemix.net/docs/services/IoT/gateways/gw_dev_index.html#eaa_community",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Watson IoT Platform Edge",
+        "ref": "https://console.bluemix.net/docs/services/IoT/edge/WIoTP_edge.html#edge_overview",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "IoT Hardware",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "IoT Button",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Sphere",
+      "ref": "https://azure.microsoft.com/en-us/services/azure-sphere/",
+      "icon": "Azure%20IoT%20Hub.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  }
+]

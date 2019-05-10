@@ -1,0 +1,285 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Cloud Software Development Kit",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Cloud9",
+        "ref": "https://aws.amazon.com/cloud9/",
+        "icon": "aws.png",
+        "location": "none"
+      },
+      {
+        "name": "Code Star",
+        "ref": "https://aws.amazon.com/codestar/",
+        "icon": "Developer-Tools_AWSCodeCommit.png",
+        "location": "none"
+      },
+      {
+        "name": "CodeCommit",
+        "ref": "https://aws.amazon.com/codecommit/",
+        "icon": "Developer-Tools_AWSCodeCommit.png",
+        "location": "none"
+      },
+      {
+        "name": "CodeBuild",
+        "ref": "https://aws.amazon.com/codebuild/",
+        "icon": "aws.png",
+        "location": "none"
+      },
+      {
+        "name": "CodeDeploy",
+        "ref": "https://aws.amazon.com/codedeploy/",
+        "icon": "Developer-Tools_AWSCodeDeploy.png",
+        "location": "none"
+      },
+      {
+        "name": "CodePipeline",
+        "ref": "https://aws.amazon.com/codepipeline",
+        "icon": "Developer-Tools_AWSCodePipeline.png",
+        "location": "none"
+      },
+      {
+        "name": "X-Ray",
+        "ref": "https://aws.amazon.com/xray/",
+        "icon": "aws.png",
+        "location": "none"
+      }
+
+    ],
+    "azure": [{
+      "name": "Visual Studio Team Services",
+      "ref": "https://www.visualstudio.com/team-services/",
+      "icon": "Visual Studio Team Services.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Source Repositories",
+      "ref": "https://cloud.google.com/source-repositories/",
+      "icon": "Generic-GCP.png",
+      "location": "none"
+    }],
+    "ibm": [{
+        "name": "Active Deploy",
+        "ref": "https://console.ng.bluemix.net/catalog/services/active-deploy/",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Continuous Delivery",
+        "ref": "https://console.ng.bluemix.net/catalog/services/continuous-delivery/",
+        "icon": "continuous-delivery.png",
+        "location": "none"
+      },
+      {
+        "name": "Delivery Pipeline",
+        "ref": "https://console.ng.bluemix.net/catalog/services/delivery-pipeline/",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Globalization Pipeline",
+        "ref": "https://console.ng.bluemix.net/catalog/services/globalization-pipeline/",
+        "icon": "globalization-pipeline.png",
+        "location": "none"
+      },
+      {
+        "name": "Track  & Plan",
+        "ref": "https://console.ng.bluemix.net/catalog/services/track--plan/",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+      "name": "Developer Cloud Service",
+      "ref": "https://cloud.oracle.com/en_US/developer-service/features",
+      "icon": "developer.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Cloud Software Development Kit",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "SDK",
+      "ref": "#",
+      "icon": "SDKs_Python.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "SDK Visual Studio",
+      "ref": "https://www.visualstudio.com/team-services/",
+      "icon": "Azure SDK.png",
+      "location": "none"
+    }],
+    "google": [{
+        "name": "Cloud SDK Cloud Tools for IntelliJ",
+        "ref": "http://#",
+        "icon": "Cloud-Tools-for-PowerShell.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Tools for Android Studio",
+        "ref": "http://#",
+        "icon": "Cloud-Tools-for-PowerShell.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Tools for Powershell",
+        "ref": "http://#",
+        "icon": "Cloud-Tools-for-PowerShell.png",
+        "location": "none"
+      },
+      {
+        "name": "Plugin for Eclipse",
+        "ref": "http://#",
+        "icon": "Cloud-Tools-for-PowerShell.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+        "name": "Cloud Developer Tool",
+        "ref": "https://marketplace.visualstudio.com/items?itemName=IBM.ibm-developer",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Continuous Delivery",
+        "ref": "https://console.bluemix.net/catalog/services/continuous-delivery",
+        "icon": "continuous-delivery.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+        "name": "Visual Builder",
+        "ref": "https://cloud.oracle.com/en_US/visual-builder",
+        "icon": "developer.png",
+        "location": "none"
+      },
+      {
+        "name": "API Catalog",
+        "ref": "https://cloud.oracle.com/en_US/api-catalog",
+        "icon": "developer.png",
+        "location": "none"
+      },
+      {
+        "name": "Enterprise Pack for Eclipse",
+        "ref": "https://docs.oracle.com/en/cloud/paas/developer-cloud/csdcs/using-eclipse-ide-oracle-developer-cloud-service.html",
+        "icon": "developer.png",
+        "location": "none"
+      },
+      {
+        "name": "Enterprise Pack for Netbeans",
+        "ref": "https://docs.oracle.com/en/cloud/paas/developer-cloud/csdcs/using-netbeans-ide-oracle-developer-cloud-service.html",
+        "icon": "developer.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Game Development",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Lumberyard",
+      "ref": "",
+      "icon": "Game-Development_AmazonGameLift.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Visual Studio",
+      "ref": "",
+      "icon": "Visual Studio Team Services.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Development & Testing",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Dev/Test",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Dev/Test",
+      "ref": "https://azure.microsoft.com/en-in/services/devtest-lab/",
+      "icon": "Azure DevTest Labs.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  }
+]

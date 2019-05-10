@@ -1,0 +1,385 @@
+ [{
+     "service": {
+       "desc": "none",
+       "name": "Mobile App Development Services",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Mobile Hub",
+       "ref": "",
+       "icon": "Mobile-Services_AWSMobileHub.png",
+       "location": "none"
+     }],
+     "azure": [{
+       "name": "Mobile Apps",
+       "ref": "https://azure.microsoft.com/en-us/services/app-service/mobile/",
+       "icon": "Azure App Service - Mobile App (was Mobile Services).png",
+       "location": "none"
+     }],
+     "google": [{
+       "name": "Cloud Mobile App",
+       "ref": "",
+       "icon": "Generic-GCP.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "Cloud Mobile App",
+       "ref": "https://www.ibm.com/cloud-computing/bluemix/mobile?lnk=mn",
+       "icon": "ibmcloud.png",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "Mobile & Chatbots",
+       "ref": "https://cloud.oracle.com/en_US/mobile/features",
+       "icon": "oracle.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Web API Management Service",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "API Gateway",
+       "ref": "",
+       "icon": "Application-Services_AmazonAPIGateway.png",
+       "location": "none"
+     }],
+     "azure": [{
+       "name": "API Management",
+       "ref": "",
+       "icon": "Azure API Management.png",
+       "location": "none"
+     }],
+     "google": [{
+       "name": "Cloud Endpoints",
+       "ref": "",
+       "icon": "Cloud-Endpoints.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "API Connect",
+       "ref": "https://console.bluemix.net/catalog/services/api-connect",
+       "icon": "api-connect.svg",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "API Platform",
+       "ref": "https://cloud.oracle.com/en_US/api-platform",
+       "icon": "APIManager.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "API Gateway",
+       "ref": "https://www.alibabacloud.com/product/api-gateway",
+       "icon": "API.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Web/Mobile Authentication Services",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Cognito",
+       "ref": "",
+       "icon": "Mobile-Services_AmazonCognito.png",
+       "location": "none"
+     }],
+     "azure": [{
+       "name": "Mobile SDK,Offline/Sync",
+       "ref": "",
+       "icon": "Azure SDK.png",
+       "location": "none"
+     }],
+     "google": [{
+       "name": "Firebase Authentication",
+       "ref": "",
+       "icon": "Blue-Hexagon.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "App ID",
+       "ref": "https://console.bluemix.net/catalog/services/app-id",
+       "icon": "app-id.png",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "Mobile Cloud Service",
+       "ref": "https://cloud.oracle.com/mobile",
+       "icon": "mobile.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Consolidated Mgmt of Multiple Cloud Accounts",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Pinpoint",
+       "ref": "",
+       "icon": "aws.png",
+       "location": "none"
+     }],
+     "azure": [{
+       "name": "Mobile Engagement",
+       "ref": "",
+       "icon": "Azure Mobile Engagement.png",
+       "location": "none"
+     }],
+     "google": [{
+       "name": "",
+       "ref": "",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "Mobile Foundation",
+       "ref": "https://console.bluemix.net/catalog/services/mobile-foundation",
+       "icon": "mobile-foundation.svg",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Mobile App Testing Service",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Device Farm",
+       "ref": "",
+       "icon": "Mobile-Services_AWSDeviceFarm.png",
+       "location": "none"
+     }],
+     "azure": [{
+         "name": "Xamarin Test Cloud (Front End)",
+         "ref": "",
+         "icon": "xamarin.png",
+         "location": "none"
+       },
+       {
+         "name": "DevTest Labs (Back End)",
+         "ref": "",
+         "icon": "Azure DevTest Labs.png",
+         "location": "none"
+       }
+     ],
+     "google": [{
+       "name": "Cloud Test Lab",
+       "ref": "https://firebase.google.com/docs/test-lab/",
+       "icon": "Generic-GCP.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Mobile App Software Development Toolkit",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Mobile SDK",
+       "ref": "",
+       "icon": "SDKs_Android.png",
+       "location": "none"
+     }],
+     "azure": [{
+       "name": "Mobile SDK",
+       "ref": "",
+       "icon": "Azure SDK.png",
+       "location": "none"
+     }],
+     "google": [{
+       "name": "Cloud Tools for Android Studio",
+       "ref": "https://cloud.google.com/android-studio/",
+       "icon": "Blue-Hexagon.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Application Services",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Step Functions",
+       "ref": "",
+       "icon": "aws.png",
+       "location": "none"
+     }],
+     "azure": [{
+         "name": "Microsoft Flow",
+         "ref": "https://flow.microsoft.com/",
+         "icon": "Microsoft Flow.png",
+         "location": "none"
+       },
+       {
+         "name": "Logic Apps",
+         "ref": "https://azure.microsoft.com/en-in/services/logic-apps/",
+         "icon": "Azure App Service - Logic App.png",
+         "location": "none"
+       },
+       {
+         "name": "Functions",
+         "ref": "https://azure.microsoft.com/en-in/services/functions/",
+         "icon": "Azure Functions.png",
+         "location": "none"
+       },
+       {
+         "name": "Event Grid",
+         "ref": "https://azure.microsoft.com/en-us/services/event-grid/",
+         "icon": "Azure Event Grid.png",
+         "location": "none"
+       },
+       {
+         "name": "App Service WebJobs",
+         "ref": "",
+         "icon": "Azure WebApp - WebJobs.png",
+         "location": "none"
+       }
+     ],
+     "google": [{
+       "name": "App Engine",
+       "ref": "https://cloud.google.com/appengine/",
+       "icon": "App-Engine.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "Cloud Functions",
+       "ref": "https://www.ibm.com/cloud/functions",
+       "icon": "ibm-cloud-functions.png",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "Functions",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   },
+   {
+     "service": {
+       "desc": "none",
+       "name": "Mobile App Analytics",
+       "ref": "",
+       "location": "none"
+     },
+     "aws": [{
+       "name": "Mobile Analytics",
+       "ref": "https://aws.amazon.com/mobileanalytics/",
+       "icon": "aws.png",
+       "location": "none"
+     }],
+     "azure": [{
+       "name": "Hockey App",
+       "ref": "https://azure.microsoft.com/en-in/services/hockeyapp/",
+       "icon": "Microsoft Flow.png",
+       "location": "none"
+     }],
+     "google": [{
+       "name": "Firebase Analytics",
+       "ref": "https://firebase.google.com/docs/analytics/",
+       "icon": "Blue-Hexagon.png",
+       "location": "none"
+     }],
+     "ibm": [{
+       "name": "Mobile Analyics",
+       "ref": "https://console.bluemix.net/catalog/services/mobile-analytics",
+       "icon": "ibmcloud.png",
+       "location": "none"
+     }],
+     "oracle": [{
+       "name": "Mobile Cloud Service",
+       "ref": "https://cloud.oracle.com/mobile",
+       "icon": "mobile.png",
+       "location": "none"
+     }],
+     "alibaba": [{
+       "name": "",
+       "ref": "https://#",
+       "icon": "none.png",
+       "location": "none"
+     }]
+   }
+ ]

@@ -1,0 +1,481 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "API Management Service",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "API Gateway",
+      "ref": "",
+      "icon": "Application-Services_AmazonAPIGateway.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "API Management",
+      "ref": "",
+      "icon": "Azure API Management.png",
+      "location": "none"
+    }],
+    "google": [{
+        "name": "Apigee API Platform",
+        "ref": "https://cloud.google.com/apigee-api-management/",
+        "icon": "Blue-Hexagon.png",
+        "location": "none"
+      },
+      {
+        "name": "API Monitization",
+        "ref": "https://cloud.google.com/api-monetization/",
+        "icon": "Blue-Hexagon.png",
+        "location": "none"
+      },
+      {
+        "name": "API Analytics",
+        "ref": "https://cloud.google.com/api-analytics/",
+        "icon": "Blue-Hexagon.png",
+        "location": "none"
+      },
+      {
+        "name": "Apigee Sense",
+        "ref": "https://cloud.google.com/apigee-sense/",
+        "icon": "Blue-Hexagon.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Endpoints",
+        "ref": "https://cloud.google.com/endpoints/",
+        "icon": "Blue-Hexagon.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+      "name": "API Connect",
+      "ref": "https://console.bluemix.net/catalog/services/api-connect",
+      "icon": "api-connect.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Media Transcoders",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Elastic Transcoder",
+        "ref": "",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      },
+      {
+        "name": "Elemental MediaConvert",
+        "ref": "https://aws.amazon.com/mediaconvert/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      },
+      {
+        "name": "Elemental MediaLive",
+        "ref": "https://aws.amazon.com/medialive/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      },
+      {
+        "name": "Elemental MediaPackage",
+        "ref": "https://aws.amazon.com/mediapackage/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      },
+      {
+        "name": "Elemental MediaStore",
+        "ref": "https://aws.amazon.com/mediastore/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      },
+      {
+        "name": "Elemental MediaTailor",
+        "ref": "https://aws.amazon.com/MediaTailor/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      },
+      {
+        "name": "Kinesis Video Streams",
+        "ref": "https://aws.amazon.com/kinesis/video-streams/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "Media Services",
+        "ref": "https://azure.microsoft.com/en-us/services/media-services",
+        "icon": "Azure Media Services.png",
+        "location": "none"
+      },
+      {
+        "name": "Live On Demand Streaming",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "location": "none"
+      },
+      {
+        "name": "Media Player",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "location": "none"
+      },
+      {
+        "name": "Content Protection",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "location": "none"
+      },
+      {
+        "name": "Media Analytics",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Digital Transcoding",
+      "ref": "https://console.bluemix.net/docs/infrastructure/digital-transcoding/tc_index.html#getting-started-with-digital-transcoding",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "ApsaraVideo Live",
+      "ref": "https://www.alibabacloud.com/product/apsaravideo-for-live",
+      "icon": "video.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Queuing Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Simple Queue Service (SQS)",
+        "ref": "https://aws.amazon.com/sqs/",
+        "icon": "Application-Services_AmazonSQS.png",
+        "location": "none"
+      },
+      {
+        "name": "MQ",
+        "ref": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-mq/",
+        "icon": "aws.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "Service Bus queues",
+        "ref": "",
+        "icon": "Azure Service Bus Queues.png",
+        "location": "none"
+      },
+      {
+        "name": "Queue Storage",
+        "ref": "",
+        "icon": "Azure Service Bus Queues.png",
+        "location": "none"
+      },
+      {
+        "name": "Service Bus topics",
+        "ref": "",
+        "icon": "Azure Service Bus Topics.png",
+        "location": "none"
+      },
+      {
+        "name": "Service Bus relay",
+        "ref": "",
+        "icon": "Azure Service Bus Relay.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "Cloud Pub/Sub",
+      "ref": "",
+      "icon": "Cloud-PubSub.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Message Hub",
+      "ref": "https://console.bluemix.net/catalog/services/message-hub",
+      "icon": "message-hub.png",
+      "location": "none"
+    }],
+    "oracle": [{
+        "name": "Integration",
+        "ref": "https://cloud.oracle.com/integration",
+        "icon": "integration.png",
+        "location": "none"
+      },
+      {
+        "name": "Messaging",
+        "ref": "https://cloud.oracle.com/messaging",
+        "icon": "messaging.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+      "name": "Message Queue",
+      "ref": "https://www.alibabacloud.com/product/mq?spm=a3c0i.11270126.209577.68.6c8668dctRiorX",
+      "icon": "API.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Mobile Analytics",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Pinpoint",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Mobile Engagement",
+      "ref": "",
+      "icon": "Azure Mobile Engagement.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Mobile Analytics",
+      "ref": "https://console.bluemix.net/catalog/services/mobile-analytics",
+      "icon": "ibmcloud.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Email Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Simple Email Service (SES)",
+      "ref": "https://aws.amazon.com/ses/",
+      "icon": "Application-Services_AmazonSES_email.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Sendgrid",
+      "ref": "https://console.bluemix.net/catalog/services/sendgrid",
+      "icon": "sendgrid.jpg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Edge Services",
+      "ref": "https://cloud.oracle.com/edge",
+      "icon": "developer.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Direct Mail",
+      "ref": "https://www.alibabacloud.com/product/directmail",
+      "icon": "directmail.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Notification Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "SNS",
+      "ref": "",
+      "icon": "Mobile-Services_AmazonSNS.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Notification Services",
+      "ref": "",
+      "icon": "Azure Notification Hubs.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Firebase Cloud Messaging",
+      "ref": "https://firebase.google.com/docs/cloud-messaging/",
+      "icon": "Google-Cloud-Platform.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Push notification",
+      "ref": "https://console.bluemix.net/catalog/services/push-notifications",
+      "icon": "push_notification.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Short Message Service (SMS)",
+      "ref": "https://www.alibabacloud.com/product/short-message-service",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+
+  {
+    "service": {
+      "desc": "none",
+      "name": "Blockchain Services",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Managed Blockchain (Preview)",
+      "ref": "https://aws.amazon.com/managed-blockchain/",
+      "icon": "Blockchain-Services_AmazonManagedBlockchain.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Blockchain",
+        "ref": "https://azure.microsoft.com/en-us/solutions/blockchain/",
+        "icon": "Azure subscription.png",
+        "location": "none"
+      },
+      {
+        "name": "Blockchain Workbench",
+        "ref": "https://azure.microsoft.com/en-us/features/blockchain-workbench/",
+        "icon": "Azure subscription.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Blockchain",
+      "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
+      "icon": "blockchain.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Blockchain (Coming Soon)",
+      "ref": "https://cloud.oracle.com/en_US/blockchain",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Blockchain",
+      "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Chatbot",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Lex Chatbots",
+      "ref": "",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Bot Service",
+      "ref": "https://azure.microsoft.com/en-us/services/bot-service/",
+      "icon": "Azure subscription.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Dialogflow",
+      "ref": "https://dialogflow.com/",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Watson Assistant",
+      "ref": "https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation",
+      "icon": "watson-assistant.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Chatbots",
+      "ref": "https://cloud.oracle.com/en_US/blockchain",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Intelligent Service Robot",
+      "ref": "https://www.alibabacloud.com/product/bot",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  }
+]

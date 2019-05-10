@@ -1,0 +1,366 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Relational Database Management Service",
+      "ref": "https://en.wikipedia.org/wiki/Relational_database_management_system",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "Aurora",
+        "ref": "https://aws.amazon.com/rds/aurora/details/",
+        "icon": "aws.png",
+        "location": "none"
+      },
+      {
+        "name": "RDS",
+        "ref": "https://aws.amazon.com/rds/",
+        "icon": "Database_AmazonRDS.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "SQL Database",
+        "ref": "https://azure.microsoft.com/en-in/services/sql-database/",
+        "icon": "Azure SQL Database.png",
+        "location": "none"
+      },
+      {
+        "name": "SQL Server Stretch Database",
+        "ref": "https://azure.microsoft.com/en-us/services/sql-server-stretch-database/",
+        "icon": "Azure SQL Database.png",
+        "location": "none"
+      },
+      {
+        "name": "Database for MySQL",
+        "ref": "https://azure.microsoft.com/en-us/services/mysql/",
+        "icon": "Azure SQL Database.png",
+        "location": "none"
+      },
+      {
+        "name": "Database for PostgresSQL",
+        "ref": "https://azure.microsoft.com/en-us/services/postgresql/",
+        "icon": "Azure SQL Database.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud SQL",
+        "ref": "https://cloud.google.com/sql/",
+        "icon": "Cloud-SQL.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Spanner",
+        "ref": "https://cloud.google.com/spanner/",
+        "icon": "Cloud-Spanner.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+        "name": "Db2",
+        "ref": "https://console.bluemix.net/catalog/services/db2",
+        "icon": "db2.png",
+        "location": "none"
+      },
+      {
+        "name": "Db2 Hosted",
+        "ref": "https://console.bluemix.net/catalog/services/db2-hosted",
+        "icon": "db2-hosted.png",
+        "location": "none"
+      },
+      {
+        "name": "Informix",
+        "ref": "https://console.bluemix.net/catalog/services/informix",
+        "icon": "informix.png",
+        "location": "none"
+      },
+      {
+        "name": "Compose for PostgreSQL",
+        "ref": "https://console.bluemix.net/catalog/services/compose-for-postgresql",
+        "icon": "compose-postgre.png",
+        "location": "none"
+      },
+      {
+        "name": "Compose for MySQL",
+        "ref": "https://console.bluemix.net/catalog/services/compose-for-postgresql",
+        "icon": "compose-mysql.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+        "name": "DBaaS",
+        "ref": "https://cloud.oracle.com/database",
+        "icon": "database.png",
+        "location": "none"
+      },
+      {
+        "name": "MySQL Service",
+        "ref": "https://cloud.oracle.com/mysql",
+        "icon": "database.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+        "name": "ApsaraDB for RDS MYSQL",
+        "ref": "https://www.alibabacloud.com/product/apsaradb-for-rds/",
+        "icon": "rds.png",
+        "location": "none"
+      },
+      {
+        "name": "ApsaraDB for RDS SQL Server",
+        "ref": "https://www.alibabacloud.com/product/apsaradb-for-rds/",
+        "icon": "rds.png",
+        "location": "none"
+      },
+      {
+        "name": "ApsaraDB for RDS PostgreSQL",
+        "ref": "https://www.alibabacloud.com/product/apsaradb-for-rds/",
+        "icon": "rds.png",
+        "location": "none"
+      },
+      {
+        "name": "Distributed Relational Database Service (DRDS) ",
+        "ref": "https://www.alibabacloud.com/product/drds?spm=a3c0i.11270126.675768.dnavproductsd7.6c8668dcRLNbeB",
+        "icon": "rds.png",
+        "location": "none"
+      }
+    ]
+  },
+
+  {
+    "service": {
+      "desc": "none",
+      "name": "Non Relational Database Management Service",
+      "ref": "https://en.wikipedia.org/wiki/NoSQL",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "DynamoDB",
+        "ref": "https://aws.amazon.com/dynamodb/",
+        "icon": "Database_AmazonDynamoDB.png",
+        "location": "none"
+      },
+      {
+        "name": "DynamoDB Accelerator (DAX)",
+        "ref": "https://aws.amazon.com/dynamodb/dax/",
+        "icon": "Database_AmazonDynamoDB.png",
+        "location": "none"
+      },
+      {
+        "name": "Neptune (Preview)",
+        "ref": "https://aws.amazon.com/neptune/",
+        "icon": "aws.png",
+        "location": "none"
+      }
+    ],
+    "azure": [{
+        "name": "CosmosDB",
+        "ref": "https://docs.microsoft.com/en-us/azure/cosmos-db/",
+        "icon": "Azure DocumentDB.png",
+        "location": "none"
+      },
+      {
+        "name": "Table Storage",
+        "ref": "https://azure.microsoft.com/en-in/services/storage/tables/",
+        "icon": "Azure Storage - Table.png",
+        "location": "none"
+      },
+      {
+        "name": "Time Series Insights",
+        "ref": "https://azure.microsoft.com/en-us/services/time-series-insights/",
+        "icon": "Azure DocumentDB.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+        "name": "Cloud Datastore",
+        "ref": "https://cloud.google.com/datastore/",
+        "icon": "Cloud-Datastore.png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud BigTable",
+        "ref": "https://cloud.google.com/bigtable/",
+        "icon": "Cloud-Bigtable.png",
+        "location": "none"
+      }
+    ],
+    "ibm": [{
+        "name": "Cloudant NoSQL DB",
+        "ref": "https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/",
+        "icon": "cloudant.png",
+        "location": "none"
+      },
+      {
+        "name": "Graph",
+        "ref": "https://console.ng.bluemix.net/catalog/services/ibm-graph/",
+        "icon": "ibmcloud.png",
+        "location": "none"
+      },
+      {
+        "name": "Compose for MongoDB",
+        "ref": "https://console.bluemix.net/catalog/services/compose-for-mongodb",
+        "icon": "compose-mongo.png",
+        "location": "none"
+      }
+    ],
+    "oracle": [{
+      "name": "NoSQL Database",
+      "ref": "https://www.oracle.com/database/nosql/index.html",
+      "icon": "NoSQL.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+        "name": "Apsaradb for Mongodb",
+        "ref": "https://www.alibabacloud.com/product/apsaradb-for-mongodb",
+        "icon": "rds.png",
+        "location": "none"
+      },
+      {
+        "name": "Table Store",
+        "ref": "https://www.alibabacloud.com/product/table-store",
+        "icon": "rds.png",
+        "location": "none"
+      }
+    ]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Timeseries Database",
+      "ref": "",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "DynamoDB",
+      "ref": "https://aws.amazon.com/dynamodb/",
+      "icon": "Database_AmazonDynamoDB.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Time Series Insights",
+      "ref": "https://azure.microsoft.com/en-us/services/time-series-insights/",
+      "icon": "Azure DocumentDB.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud BigTable",
+      "ref": "https://cloud.google.com/bigtable/",
+      "icon": "Cloud-Bigtable.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "HiTSDB (High-Performance Time Series Database)",
+      "ref": "https://www.alibabacloud.com/product/hitsdb?spm=a3c0i.11270126.675768.dnavproductsd8.6c8668dcRLNbeB",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "In-Memory Data Store",
+      "ref": "https://en.wikipedia.org/wiki/In-memory_database",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "ElastiCache",
+      "ref": "https://aws.amazon.com/elasticache/",
+      "icon": "Database_AmazonElasticCache.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "RedisCache",
+      "ref": "https://azure.microsoft.com/en-in/services/cache/",
+      "icon": "Azure Cache including Redis.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud MemoryStore (Beta)",
+      "ref": "https://cloud.google.com/memorystore/",
+      "icon": "Blue-Hexagon.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Compose for Redis",
+      "ref": "https://console.bluemix.net/catalog/services/compose-for-redis",
+      "icon": "compose-redis.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "ApsaraDB for Redis",
+      "ref": "https://www.alibabacloud.com/product/apsaradb-for-redis",
+      "icon": "redis.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Data Warehousing",
+      "ref": "https://en.wikipedia.org/wiki/Data_warehouse",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Redshift",
+      "ref": "https://aws.amazon.com/redshift/",
+      "icon": "Database_AmazonRedshift.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "SQL Data Warehouse",
+      "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
+      "icon": "Azure Data Warehouse.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Big Query",
+      "ref": "https://cloud.google.com/bigquery/",
+      "icon": "BigQuery.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Db2 Warehouse",
+      "ref": "https://console.bluemix.net/catalog/services/db2-warehouse",
+      "icon": "db2-warehouse.png",
+      "location": "none"
+    }],
+    "oracle": [{
+        "name": "Exadata",
+        "ref": "http://www.oracle.com/us/corporate/features/exadata-service/index.html",
+        "icon": "database.png",
+        "location": "none"
+      },
+      {
+        "name": "Autonomous Data Warehouse Cloud",
+        "ref": "https://cloud.oracle.com/en_US/datawarehouse/features",
+        "icon": "database.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+      "name": "MaxCompute ODPS",
+      "ref": "https://www.alibabacloud.com/product/maxcompute",
+      "icon": "MaxCompute.png",
+      "location": "none"
+    }]
+  }
+]

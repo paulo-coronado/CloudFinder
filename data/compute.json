@@ -1,0 +1,596 @@
+[{
+    "service": {
+      "desc": "none",
+      "name": "Shared Web hosting",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Shared App Services",
+      "ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
+      "icon": "Azure App Service - Web App (was Websites).png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+        "name": "Web Hosting",
+        "ref": "https://www.alibabacloud.com/product/hosting",
+        "icon": "ecs.png",
+        "location": "none"
+      },
+      {
+        "name": "Simple Application Server",
+        "ref": "https://www.alibabacloud.com/product/swas",
+        "icon": "ecs.png",
+        "location": "none"
+      }
+    ]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Virtual Server",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Elastic Compute Cloud (EC2)",
+      "ref": "https://aws.amazon.com/ec2/",
+      "icon": "Compute_AmazonEC2.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Virtual Machine",
+      "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/",
+      "icon": "Azure Virtual Machine.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Compute Engine",
+      "ref": "https://cloud.google.com/compute/",
+      "icon": "Compute-Engine.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Virtual Server Infrastructure (VSi)",
+      "ref": "https://www.ibm.com/cloud/virtual-servers",
+      "icon": "virtual-server.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Compute",
+      "ref": "https://cloud.oracle.com/en_US/compute",
+      "icon": "compute.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "ECS",
+      "ref": "https://www.alibabacloud.com/product/ecs",
+      "icon": "ecs.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Bare Metal Server",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "EC2 Bare Metal Instance (Preview)",
+      "ref": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Bare Metal Servers (Large Instance Only for SAP Hana)",
+      "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-overview-architecture",
+      "icon": "Azure Virtual Machine.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "None",
+      "ref": "http://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Bare Metal Servers",
+      "ref": "https://console.bluemix.net/docs/bare-metal/about.html#about",
+      "icon": "ibm-baremetal.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Bare Metal Servers",
+      "ref": "https://cloud.oracle.com/compute/bare-metal/features",
+      "icon": "compute.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "ECS Bare Metal Instance",
+      "ref": "https://www.alibabacloud.com/product/ebm",
+      "icon": "ecs.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Virtual Dedicated Host",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "EC2 Dedicated Hosts",
+      "ref": "https://aws.amazon.com/ec2/dedicated-hosts/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "None",
+      "ref": "http://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Sole Tenant Node (Beta)",
+      "ref": "https://cloud.google.com/compute/docs/nodes/",
+      "icon": "Compute-Engine.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Dedicated Virtual Servers Infrastructure (VSi)",
+      "ref": "https://console.bluemix.net/docs/vsi/vsi_dedicated_host.html#dedicated-hosts-and-dedicated-instances",
+      "icon": "virtual-server.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Dedicated Compute Classic",
+      "ref": "https://cloud.oracle.com/compute-classic/dedicated/features",
+      "icon": "compute.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Dedicated Host",
+      "ref": "https://www.alibabacloud.com/product/ddh",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Container Registration Service",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "EC2 Container Registry",
+      "ref": "https://aws.amazon.com/ecr/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Container Registry ",
+      "ref": "https://azure.microsoft.com/en-in/services/container-registry/",
+      "icon": "Microsoft Azure.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Container Registry",
+      "ref": "https://cloud.google.com/container-registry/",
+      "icon": "Container-Registry.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Cloud Container Registry",
+      "ref": "https://www.ibm.com/cloud/container-registry",
+      "icon": "registry_icon.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Cloud Infrastructure Registry",
+      "ref": "https://cloud.oracle.com/containers/registry",
+      "icon": "compute.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Container Registry",
+      "ref": "https://www.alibabacloud.com/product/container-registry",
+      "icon": "ContainerServi.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Container Management Service",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+        "name": "EC2 Container Service",
+        "ref": "https://aws.amazon.com/ecs/",
+        "icon": "Compute_AmazonECS.png",
+        "location": "none"
+      },
+      {
+        "name": "Elastic Container Service for Kubernetes (EKS)",
+        "ref": "https://aws.amazon.com/eks/",
+        "icon": "Compute_AmazonECS.png",
+        "location": "Asia Pacific (Mumbai);Asia Pacific (Seoul);Asia Pacific (Tokyo);Asia Pacific (Singapore);Asia Pacific (Sydney);EU (Stockholm);EU (Paris);EU (London);EU (Ireland);EU (Frankfurt);US East (N. Virginia);US East (Ohio);US West (Oregon)"
+      }
+    ],
+    "azure": [{
+        "name": "Kubernetes Service (AKS)",
+        "ref": "https://azure.microsoft.com/services/kubernetes-service/",
+        "icon": "Azure Kubernetes Service.png",
+        "location": "none"
+      },
+      {
+        "name": "Container Instances",
+        "ref": "https://azure.microsoft.com/en-in/services/container-instances/",
+        "icon": "Azure Container Service.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "Kubernetes Engine",
+      "ref": "https://cloud.google.com/kubernetes-engine/",
+      "icon": "Container-Engine.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Cloud Kubernetes Service",
+      "ref": "https://www.ibm.com/cloud/container-service",
+      "icon": "containerServiceIcon.svg",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Container Engine for Kubernetes (OKE)",
+      "ref": "https://cloud.oracle.com/containers/kubernetes-engine",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+        "name": "Container Service",
+        "ref": "https://www.alibabacloud.com/product/container-service",
+        "icon": "ContainerServi.png",
+        "location": "none"
+      },
+      {
+        "name": "Container Service for Kubernetes",
+        "ref": "https://www.alibabacloud.com/product/kubernetes",
+        "icon": "ContainerServi.png",
+        "location": "none"
+      }
+    ]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Micro Services App Development Platform",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Lambda",
+      "ref": "https://aws.amazon.com/lambda/",
+      "icon": "Compute_AWSLambda.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Service Fabric",
+        "ref": "https://azure.microsoft.com/en-in/services/service-fabric/",
+        "icon": "Azure Service Fabric.png",
+        "location": "none"
+      },
+      {
+        "name": "Functions",
+        "ref": "https://azure.microsoft.com/en-in/services/functions/",
+        "icon": "Azure Functions.png",
+        "location": "none"
+      },
+      {
+        "name": "Event Grid",
+        "ref": "https://azure.microsoft.com/en-us/services/event-grid/",
+        "icon": "Azure Event Grid.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "Google Cloud Functions",
+      "ref": "https://cloud.google.com/functions/",
+      "icon": "Cloud-Functions.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Cloud Functions",
+      "ref": "https://www.ibm.com/cloud/functions",
+      "icon": "ibm-cloud-functions.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Functions",
+      "ref": "https://#",
+      "icon": "compute.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Function Compute",
+      "ref": "https://www.alibabacloud.com/product/function-compute",
+      "icon": "ecs.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Virtual Private Servers",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Lightsail",
+      "ref": "https://amazonlightsail.com/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "App Service Environment",
+      "ref": "https://docs.microsoft.com/en-us/azure/app-service-web/app-service-app-service-environment-intro",
+      "icon": "Azure App Service - Web App (was Websites).png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "http://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Virtual Server Infrastructure (VSi)",
+      "ref": "https://www.ibm.com/cloud/virtual-servers",
+      "icon": "virtual-server.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Simple Application Server",
+      "ref": "https://www.alibabacloud.com/product/swas#product-details",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Auto Scaling",
+      "ref": "http://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Auto Scaling",
+      "ref": "https://aws.amazon.com/autoscaling/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Autoscale",
+        "ref": "https://azure.microsoft.com/en-us/features/autoscale/",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "location": "none"
+      },
+      {
+        "name": "Virtual Machine Scale Sets",
+        "ref": "https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview",
+        "icon": "Azure VM Scale Set.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "Auto Scaler",
+      "ref": "https://cloud.google.com/compute/docs/autoscaler/",
+      "icon": "Blue-Hexagon.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Auto Scaling",
+      "ref": "https://www.ibm.com/cloud/auto-scaling",
+      "icon": "auto-scaling.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Auto Scaling",
+      "ref": "https://docs.oracle.com/en/cloud/paas/psmon/automatic-scaling.html",
+      "icon": "oracle.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Auto Scaling",
+      "ref": "https://www.alibabacloud.com/product/auto-scaling",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Batch Jobs",
+      "ref": "https://en.wikipedia.org/wiki/Batch_processing",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Batch",
+      "ref": "https://aws.amazon.com/batch/",
+      "icon": "aws.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Batch",
+      "ref": "https://azure.microsoft.com/en-in/services/batch/",
+      "icon": "Azure Batch.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Preemptible VMs",
+      "ref": "https://cloud.google.com/preemptible-vms/",
+      "icon": "Compute-Engine.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Workload Scheduler",
+      "ref": "https://console.bluemix.net/catalog/services/workload-scheduler",
+      "icon": "workload_scheduler.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Batch Compute",
+      "ref": "https://www.alibabacloud.com/product/batch-compute",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "App Development/ Deployment (Java /.Net /PHP /Python)",
+      "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Elastic Beanstalk",
+      "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+      "icon": "Compute_AWSElasticBeanstalk_application.png",
+      "location": "none"
+    }],
+    "azure": [{
+        "name": "Web Apps",
+        "ref": "https://azure.microsoft.com/en-in/services/batch/",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "location": "none"
+      },
+      {
+        "name": "Cloud Services",
+        "ref": "https://azure.microsoft.com/en-in/services/cloud-services/",
+        "icon": "Azure Cloud Services - Web roles.png",
+        "location": "none"
+      }
+    ],
+    "google": [{
+      "name": "App engine",
+      "ref": "https://cloud.google.com/appengine/",
+      "icon": "App-Engine.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Cloud Foundry Apps",
+      "ref": "https://www.ibm.com/cloud/cloud-foundry",
+      "icon": "cloud-foundry-apps.png",
+      "location": "none"
+    }],
+    "oracle": [{
+        "name": "Application Container Cloud",
+        "ref": "https://cloud.oracle.com/acc",
+        "icon": "applicationcontainer.png",
+        "location": "none"
+      },
+      {
+        "name": "Java Cloud Service",
+        "ref": "https://cloud.oracle.com/en_US/java",
+        "icon": "applicationcontainer.png",
+        "location": "none"
+      }
+    ],
+    "alibaba": [{
+      "name": "Enterprise Distributed Application Service",
+      "ref": "https://www.alibabacloud.com/product/edas",
+      "icon": "alibaba.png",
+      "location": "none"
+    }]
+  },
+  {
+    "service": {
+      "desc": "none",
+      "name": "Event Driven Computing",
+      "ref": "https://#",
+      "location": "none"
+    },
+    "aws": [{
+      "name": "Lambda",
+      "ref": "#",
+      "icon": "Compute_AWSLambda.png",
+      "location": "none"
+    }],
+    "azure": [{
+      "name": "Functions",
+      "ref": "https://azure.microsoft.com/en-in/services/functions/",
+      "icon": "Azure Functions.png",
+      "location": "none"
+    }, {
+      "name": "Event Grid",
+      "ref": "https://azure.microsoft.com/en-us/services/event-grid/",
+      "icon": "Azure Event Grid.png",
+      "location": "none"
+    }],
+    "google": [{
+      "name": "Cloud Functions",
+      "ref": "https://cloud.google.com/functions/",
+      "icon": "Cloud-Functions.png",
+      "location": "none"
+    }],
+    "ibm": [{
+      "name": "Cloud Functions",
+      "ref": "https://www.ibm.com/cloud/functions",
+      "icon": "ibm-cloud-functions.png",
+      "location": "none"
+    }],
+    "oracle": [{
+      "name": "Functions",
+      "ref": "https://#",
+      "icon": "compute.png",
+      "location": "none"
+    }],
+    "alibaba": [{
+      "name": "Function Compute",
+      "ref": "https://www.alibabacloud.com/product/function-compute",
+      "icon": "ecs.png",
+      "location": "none"
+    }]
+  }
+]
