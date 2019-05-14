@@ -1,7 +1,6 @@
-aplications
-- name: cloudfinder
-  buildpacks: 
-  	- https://github.com/cloudfoundry/staticfile-buildpack.git
+applications:
+- buildpacks: https://github.com/cloudfoundry/staticfile-buildpack.git
+  name: cloudfinder
   memory: 64M
   routes:
   - route: www.cloudfinder.io 
