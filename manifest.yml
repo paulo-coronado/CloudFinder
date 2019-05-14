@@ -4,5 +4,5 @@ applications:
   instances: 1
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
   routes: 
-  - route: mybluemix.net
+  - route: cloudfinder-cf.mybluemix.net
   - route: www.cloudfinder.io
