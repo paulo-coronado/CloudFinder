@@ -1,7 +1,8 @@
-applications:
-- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  host: cloudfinder-cf
-  name: cloudfinder-cf
-  routes:
-  - www.cloudfinder.io
+aplications
+- name: cloudfinder
+  buildpacks: 
+  	- https://github.com/cloudfoundry/staticfile-buildpack.git
   memory: 64M
+  routes:
+  - route: www.cloudfinder.io 
+  - route: cloudfinder-cf.mybluemix.net
