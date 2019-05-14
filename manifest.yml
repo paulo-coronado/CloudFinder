@@ -1,6 +1,7 @@
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  domain: www.cloudfinder.io
   host: cloudfinder-cf
   name: cloudfinder-cf
+  routes:
+  - route: www.cloudfinder.io
   memory: 64M
