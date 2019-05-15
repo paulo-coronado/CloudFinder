@@ -1,5 +1,0 @@
-applications:
-- buildpacks: https://github.com/cloudfoundry/staticfile-buildpack.git
-  host: cloudfinder-cf
-  name: cloudfinder-cf
-  memory: 64M
