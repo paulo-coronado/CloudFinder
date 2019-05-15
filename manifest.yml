@@ -2,7 +2,6 @@ applications:
 - name: cloudfinder-cf
   memory: 64M
   instances: 1
-  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
   buildpacks:
   - https://github.com/cloudfoundry/staticfile-buildpack.git
   routes: 
