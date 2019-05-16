@@ -186,37 +186,37 @@ function tableCreate(name, id) {
     var img1 = document.createElement("img");
     img1.setAttribute("src", "img/logos/aws.png");
     img1.setAttribute("alt", "icon");
-    img1.setAttribute("style", "height: 50%; width: 70%;");
+    img1.setAttribute("style", "min-width: 70%; height: auto; width: auto; display: block; margin-left: auto; margin-right: auto; width: 50%;");
 
     var th3 = document.createElement("th");
     var img2 = document.createElement("img");
     img2.setAttribute("src", "img/logos/msazure.png");
     img2.setAttribute("alt", "icon");
-    img2.setAttribute("style", "height: 45%; width: 65%;");
+    img2.setAttribute("style", "min-width: 70%; height: auto; width: auto; display: block; margin-left: auto; margin-right: auto; width: 50%;");
 
     var th4 = document.createElement("th");
     var img3 = document.createElement("img");
     img3.setAttribute("src", "img/logos/google.png");
     img3.setAttribute("alt", "icon");
-    img3.setAttribute("style", "height: 50%; width: 80%;");
+    img3.setAttribute("style", "min-width: 80%; height: auto; width: auto; display: block; margin-left: auto; margin-right: auto; width: 50%;");
 
     var th5 = document.createElement("th");
     var img4 = document.createElement("img");
     img4.setAttribute("src", "img/logos/IBM-Cloud.png");
     img4.setAttribute("alt", "icon");
-    img4.setAttribute("style", "height: 34%; width: 75%;");
+    img4.setAttribute("style", "min-width: 70%; height: auto; width: auto; display: block; margin-left: auto; margin-right: auto; width: 50%;");
 
     var th6 = document.createElement("th");
     var img5 = document.createElement("img");
     img5.setAttribute("src", "img/logos/oracle.png");
     img5.setAttribute("alt", "icon");
-    img5.setAttribute("style", "height: 60%; width: 60%;");
+    img5.setAttribute("style", "min-width: 60%; height: auto; width: auto; display: block; margin-left: auto; margin-right: auto; width: 50%;");
 
     var th7 = document.createElement("th");
     var img6 = document.createElement("img");
     img6.setAttribute("src", "img/logos/alibaba.png");
     img6.setAttribute("alt", "icon");
-    img6.setAttribute("style", "height: 40%; width: 60%;");
+    img6.setAttribute("style", "min-width: 60%; height: auto; width: auto; display: block; margin-left: auto; margin-right: auto; width: 50%;");
 
     th7.appendChild(img6);
     th6.appendChild(img5);
