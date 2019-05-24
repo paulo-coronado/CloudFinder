@@ -35,7 +35,7 @@
     ],
     "ibm": [
       {
-        "name": "Web hosting services",
+        "name": "Hosting Services",
         "ref": "https://www.ibm.com/cloud/websites",
         "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -100,7 +100,7 @@
     ],
     "ibm": [
       {
-        "name": "Virtual Server Infrastructure (VSi)",
+        "name": "Virtual Server Infrastructure (VSI)",
         "ref": "https://www.ibm.com/cloud/virtual-servers",
         "icon": "virtual-server.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1900,7 +1900,7 @@
     ],
     "azure": [
       {
-        "name": "Active Directory",
+        "name": "Azure Active Directory",
         "ref": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery",
         "icon": "Azure%20Active%20Directory.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -2156,6 +2156,12 @@
         "name": "Internet Services",
         "ref": "https://console.bluemix.net/catalog/services/internet-services",
         "icon": "internet-services.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Domain Name Service",
+        "ref": "https://cloud.ibm.com/catalog/infrastructure/domain_registration",
+        "icon": "domain-name-service.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3122,9 +3128,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Security Advisor",
+        "ref": "https://cloud.ibm.com/security-advisor?bss_account=c6a92b9dc04e4077a7de9a47c4670f76#/overview",
+        "icon": "security-advisor.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3187,9 +3193,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Monitoring",
+        "ref": "https://cloud.ibm.com/catalog/services/monitoring",
+        "icon": "monitoring.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3203,7 +3209,7 @@
     ],
     "alibaba": [
       {
-        "name": "Cloud monitoring, Notification and Alerts",
+        "name": "Cloud Monitoring, Notification and Alerts",
         "ref": "https://www.alibabacloud.com/product/cloud-monitor",
         "icon": "CloudMonitor.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3288,9 +3294,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Cloud CLI",
+        "ref": "https://cloud.ibm.com/docs/cli?topic=cloud-cli-ibmcloud-cli",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -4998,10 +5004,10 @@
     ],
     "ibm": [
       {
-        "name": "Cloud Mobile App",
-        "ref": "https://www.ibm.com/cloud-computing/bluemix/mobile?lnk=mn",
-        "icon": "ibmcloud.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "name": "Mobile Foundation",
+        "ref": "https://console.bluemix.net/catalog/services/mobile-foundation",
+        "icon": "mobile-foundation.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "oracle": [
@@ -5057,7 +5063,7 @@
     ],
     "ibm": [
       {
-        "name": "API Connect",
+        "name": "IBM API Connect",
         "ref": "https://console.bluemix.net/catalog/services/api-connect",
         "icon": "api-connect.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5583,7 +5589,7 @@
     ],
     "ibm": [
       {
-        "name": "API connect",
+        "name": "IBM API Connect",
         "ref": "https://console.bluemix.net/catalog/services/api-connect",
         "icon": "api-connect.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5785,13 +5791,13 @@
     ],
     "ibm": [
       {
-        "name": "Event Streams",
+        "name": "IBM Event Streams",
         "ref": "https://www.ibm.com/cloud/event-streams",
         "icon": "message-hub.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
-        "name": "MQ",
+        "name": "IBM MQ",
         "ref": "https://cloud.ibm.com/catalog/services/mq",
         "icon": "mq.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
