@@ -2913,7 +2913,7 @@
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
-        "name": "Cloud Data Loss Prevention Api",
+        "name": "Cloud Data Loss Prevention API",
         "ref": "https://cloud.google.com/dlp/",
         "icon": "Generic-GCP.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5583,7 +5583,7 @@
     ],
     "ibm": [
       {
-        "name": "Api connect",
+        "name": "API connect",
         "ref": "https://console.bluemix.net/catalog/services/api-connect",
         "icon": "api-connect.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
