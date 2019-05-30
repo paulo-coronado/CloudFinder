@@ -997,8 +997,14 @@
     ],
     "ibm": [
       {
-        "name": "Object Storage-ColdVault",
+        "name": "Cloud Object Storage-ColdVault",
         "ref": "https://www.ibm.com/cloud/object-storage",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Cloud Object Storage Archive",
+        "ref": "https://cloud.ibm.com/docs/services/cloud-object-storage?topic=cloud-object-storage-archive",
         "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -1057,9 +1063,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "IBM Cloud Object Storage File Access",
+        "ref": "https://www.ibm.com/support/knowledgecenter/en/SSJRUU_1.7.1/cosfa.doc/IBM_COS_FA_Product_Overview.pdf",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -1901,7 +1907,7 @@
     "azure": [
       {
         "name": "Azure Active Directory",
-        "ref": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery",
+        "ref": "https://azure.microsoft.com/pt-br/services/active-directory/",
         "icon": "Azure%20Active%20Directory.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -1975,9 +1981,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "IBM VPC",
+        "ref": "https://cloud.ibm.com/docs/vpc/vpc-getting-started-with-ibm-cloud-virtual-private-cloud-infrastructure&locale=fr?topic=vpc-getting-started-with-ibm-cloud-virtual-private-cloud-infrastructure",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3371,9 +3377,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Integrated Managed Infrastructure",
+        "ref": "https://cloud.ibm.com/infrastructure/vmware-solutions/console/gettingstarted/IMI",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3436,9 +3442,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Managed Services for Zerto",
+        "ref": "https://cloud.ibm.com/infrastructure/vmware-solutions/console/gettingstarted/Zerto/vcs/managed",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3702,9 +3708,9 @@
     ],
     "ibm": [
       {
-        "name": "Key Protect",
-        "ref": "https://console.ng.bluemix.net/catalog/services/key-protect/",
-        "icon": "key-protect.png",
+        "name": "Hardware Security Module",
+        "ref": "https://cloud.ibm.com/catalog/infrastructure/hardware-security-module",
+        "icon": "hsm.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -3850,9 +3856,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Key Protect",
+        "ref": "https://console.ng.bluemix.net/catalog/services/key-protect/",
+        "icon": "key-protect.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -4204,8 +4210,8 @@
     ],
     "ibm": [
       {
-        "name": "BigInsights for Apache Hadoop",
-        "ref": "https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/",
+        "name": "BigInsights",
+        "ref": "https://www.ibm.com/support/knowledgecenter/en/SSPT3X_4.0.0/com.ibm.swg.im.infosphere.biginsights.product.doc/doc/c0057605.html",
         "icon": "biginsights.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -5240,9 +5246,15 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "Integrated Managed Infrastruture",
+        "ref": "https://cloud.ibm.com/infrastructure/vmware-solutions/console/gettingstarted/IMI",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Managed Applications",
+        "ref": "https://www.ibm.com/services/cloud/managed/applications",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -5927,9 +5939,9 @@
     ],
     "ibm": [
       {
-        "name": "Sendgrid",
-        "ref": "https://console.bluemix.net/catalog/services/sendgrid",
-        "icon": "sendgrid.jpg",
+        "name": "",
+        "ref": "",
+        "icon": "",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -6053,7 +6065,7 @@
     "ibm": [
       {
         "name": "Blockchain",
-        "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
+        "ref": "https://cloud.ibm.com/catalog/services/ibm-blockchain-5-prod",
         "icon": "blockchain.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -6619,9 +6631,9 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
+        "name": "IBM Cloud for Skytap Solutions",
+        "ref": "https://www.ibm.com/cloud/skytap/resources",
+        "icon": "ibmcloud.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
