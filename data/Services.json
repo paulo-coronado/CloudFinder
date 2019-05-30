@@ -236,7 +236,7 @@
       {
         "name": "Dedicated Host",
         "ref": "https://www.alibabacloud.com/product/ddh",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
       }
     ]
@@ -328,7 +328,7 @@
       {
         "name": "Azure Kubernetes Service (AKS)",
         "ref": "https://azure.microsoft.com/services/kubernetes-service/",
-        "icon": "Azure Kubernetes Service.png",
+        "icon": "Microsoft Azure.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
@@ -502,7 +502,7 @@
       {
         "name": "Simple Application Server",
         "ref": "https://www.alibabacloud.com/product/swas#product-details",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -567,7 +567,7 @@
       {
         "name": "Auto Scaling",
         "ref": "https://www.alibabacloud.com/product/auto-scaling",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -626,7 +626,7 @@
       {
         "name": "Batch Compute",
         "ref": "https://www.alibabacloud.com/product/batch-compute",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -697,7 +697,7 @@
       {
         "name": "Enterprise Distributed Application Service",
         "ref": "https://www.alibabacloud.com/product/edas",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -989,7 +989,7 @@
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
-        "name": "Archival Storage (NEARLINE & COLDLINE)",
+        "name": "Archival Storage",
         "ref": "https://cloud.google.com/storage/archival/",
         "icon": "Cloud-Storage.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1075,7 +1075,7 @@
       {
         "name": "Hybrid Cloud Storage Array",
         "ref": "https://www.alibabacloud.com/product/storage-array",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -1379,7 +1379,7 @@
       {
         "name": "HiTSDB (High-Performance Time Series Database)",
         "ref": "https://www.alibabacloud.com/product/hitsdb?spm=a3c0i.11270126.675768.dnavproductsd8.6c8668dcRLNbeB",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -1757,7 +1757,7 @@
       {
         "name": "Data Transport",
         "ref": "https://www.alibabacloud.com/product/data-transport",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -1816,7 +1816,7 @@
       {
         "name": "Data Transport",
         "ref": "https://www.alibabacloud.com/product/data-transport",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -2053,7 +2053,7 @@
       {
         "name": "VPN Gateway",
         "ref": "https://www.alibabacloud.com/product/vpn-gateway",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3330,7 +3330,7 @@
       {
         "name": "Alibaba Cloud CLI",
         "ref": "https://www.alibabacloud.com/help/doc-detail/66653.htm",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3454,13 +3454,13 @@
       {
         "name": "Alibaba Disaster Recovery",
         "ref": "https://www.alibabacloud.com/solutions/hosting/Disaster-Recovery",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
         "name": "Hybrid Backup Recovery",
         "ref": "https://www.alibabacloud.com/product/hbr",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -3809,7 +3809,7 @@
       {
         "name": "Resource Access Management",
         "ref": "https://www.alibabacloud.com/help/doc-detail/96239.htm",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -4104,7 +4104,7 @@
       {
         "name": "Alibaba Truster Center ",
         "ref": "https://www.alibabacloud.com/trust-center",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -4577,13 +4577,13 @@
       {
         "name": "DataWorks",
         "ref": "https://www.alibabacloud.com/product/ide",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
         "name": "Data Integration",
         "ref": "https://www.alibabacloud.com/product/data-integration",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -4863,7 +4863,7 @@
       {
         "name": "Image Search",
         "ref": "https://www.alibabacloud.com/product/imagesearch",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -4963,7 +4963,7 @@
       {
         "name": "Machine Learning Platform For AI",
         "ref": "https://www.alibabacloud.com/product/machine-learning",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -6004,7 +6004,7 @@
       {
         "name": "Short Message Service (SMS)",
         "ref": "https://www.alibabacloud.com/product/short-message-service",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -6024,7 +6024,7 @@
       {
         "name": "Amazon Managed Blockchain (Preview)",
         "ref": "https://aws.amazon.com/managed-blockchain/",
-        "icon": "Blockchain-Services_AmazonManagedBlockchain.png",
+        "icon": "aws.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
@@ -6070,7 +6070,7 @@
       {
         "name": "Blockchain",
         "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -6129,7 +6129,7 @@
       {
         "name": "Intelligent Service Robot",
         "ref": "https://www.alibabacloud.com/product/bot",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
@@ -6318,7 +6318,7 @@
       {
         "name": "Alibaba Cloud Marketplace",
         "ref": "https://www.alibabacloud.com/marketplace",
-        "icon": "alibaba.png",
+        "icon": "alibaba.jpg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ]
