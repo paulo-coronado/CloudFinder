@@ -218,7 +218,7 @@
   ],
     "ibm": [
       {
-        "name": "Dedicated Virtual Servers Infrastructure (VSi)",
+        "name": "Dedicated Virtual Servers Infrastructure (VSI)",
         "ref": "https://console.bluemix.net/docs/vsi/vsi_dedicated_host.html#dedicated-hosts-and-dedicated-instances",
         "icon": "virtual-server.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -484,7 +484,7 @@
     ],
     "ibm": [
       {
-        "name": "Virtual Server Infrastructure (VSi)",
+        "name": "Virtual Server Infrastructure (VSI)",
         "ref": "https://www.ibm.com/cloud/virtual-servers",
         "icon": "virtual-server.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
