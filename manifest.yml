@@ -1,9 +1,9 @@
 applications:
-- name: finder
+- name: cfinder
   memory: 64M
   instances: 1
   buildpacks:
   - https://github.com/cloudfoundry/staticfile-buildpack.git
   routes: 
-  - route: finder.mybluemix.net
+  - route: cfinder.mybluemix.net
   - route: www.cloudfinder.io
