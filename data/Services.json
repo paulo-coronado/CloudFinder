@@ -2735,8 +2735,8 @@
     ],
     "ibm": [
       {
-        "name": "Terraform",
-        "ref": "https://ibm-cloud.github.io/tf-ibm-docs/index.html",
+        "name": "IBM Cloud Schematics",
+        "ref": "https://cloud.ibm.com/docs/schematics?topic=schematics-about-schematics",
         "icon": "schematics_icon.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
