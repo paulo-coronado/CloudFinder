@@ -1176,8 +1176,8 @@
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
-        "name": "Compose for PostgreSQL",
-        "ref": "https://console.bluemix.net/catalog/services/compose-for-postgresql",
+        "name": "Databases for PostgreSQL",
+        "ref": "https://cloud.ibm.com/docs/databases-for-postgresql?topic=databases-for-postgresql-getting-started",
         "icon": "compose-postgre.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
@@ -1308,8 +1308,8 @@
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
-        "name": "Compose for MongoDB",
-        "ref": "https://console.bluemix.net/catalog/services/compose-for-mongodb",
+        "name": "Databases for MongoDB",
+        "ref": "https://cloud.ibm.com/docs/databases-for-mongodb?topic=databases-for-mongodb-getting-started",
         "icon": "compose-mongo.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
