@@ -350,13 +350,13 @@
       {
         "name": "IBM Cloud Kubernetes Service",
         "ref": "https://www.ibm.com/cloud/container-service",
-        "icon": "https://cache.globalcatalog.cloud.ibm.com/api/v1/containers-kubernetes/artifacts/cache/7e87826329af635ee4540b8e40e957cf-public/containers-kubernetes/img/container-service-logo-3aec89a836.svg",
+        "icon": "iks.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       },
       {
         "name": "Red Hat Openshift Cluster",
         "ref": "https://cloud.ibm.com/docs/openshift?topic=openshift-getting-started",
-        "icon": "https://cache.globalcatalog.cloud.ibm.com/api/v1/openshift/artifacts/cache/bf27a361e68466aaada29974521faee1-public/openshift_icon_32_2.svg",
+        "icon": "openshift_icon_32_2.svg",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
